@@ -1,9 +1,9 @@
 {
   "sites": [
 {"key":"nbys","name":"泥巴(jd)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "dr_HoHo_new","name":"HoHo(drpy)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/HoHo_newnew.js"},
-{"key": "dr_海外看_new","name":"海外看(drpy)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/海外看_new.js"},
 {"key":"獨播_fm","name":"獨播庫(fm)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
+{"key": "dr_海外看_new","name":"海外看(drpy)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/海外看_new.js"},
+{"key": "dr_HoHo_new","name":"HoHo(drpy)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/HoHo_newnew.js"},
 //{"key":"Cokemv","name":"Coke(dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
 {"key":"dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
