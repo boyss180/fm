@@ -9,7 +9,8 @@
 //{"key":"Cokemv","name":"Coke(dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
 {"key":"dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
-{"key":"bili-1","name":"🎸演唱會","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://boyss180.github.io/fm/ext/my_bili-1.json"}
+{"key":"bili-1","name":"🎸演唱會","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://boyss180.github.io/fm/ext/my_bili-1.json"},
+{"key":"csp_Biliych","name":"演唱會(fty)","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "http://饭太硬.ga/x/json/biliych.json","jar":"https://boyss180.github.io/fm/cc.jar"}
 //{"key":"bili","name":"🅱嗶哩┃合集 (測試)","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"0","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://boyss180.github.io/fm/ext/my_bili.json"},
 //{"key": "dr_独播库_new","name":"獨播庫","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/独播库_new.js"},
 //{"key":"csp_xBPQ_COKEMV","name":"Coke 👉選 [海外...] 看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/COKEMV.json"},
