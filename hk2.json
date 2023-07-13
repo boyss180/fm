@@ -1,10 +1,10 @@
 {
   "sites": [
 {"key":"nbys","name":"泥巴影院","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/fm0713.jar"},
+{"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/fm0713.jar"},
 {"key":"獨播_fm","name":"獨播庫","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 {"key":"Xiaoh","name":"小 寶","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-{"key":"csp_xBPQ_吼吼","name":"HoHo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/hoho.json"},
+//{"key":"csp_xBPQ_吼吼","name":"HoHo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/hoho.json"},
 //{"key": "dr_HoHo_new","name":"HoHo(drpy)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/HoHo_newnew.js"},
 //{"key":"Cokemv","name":"Coke(dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
