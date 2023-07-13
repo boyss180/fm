@@ -1,7 +1,7 @@
 {
   "sites": [
 {"key":"nbys","name":"泥巴影院","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"ext": "jar":"https://boyss180.github.io/fm/fm0713.jar"},
+{"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/fm0713.jar"},
 {"key":"獨播_fm","name":"獨播庫","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 //{"key": "dr_海外看_new","name":"海外看","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/海外看_new.js"},
 {"key":"Xiaoh","name":"小 寶","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
