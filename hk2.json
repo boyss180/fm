@@ -1,6 +1,7 @@
 {
   "sites": [
 {"key":"泥巴","name":"泥 巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
+{"key":"nbys","name":"泥巴N","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ts0316.jar"},
 {"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 {"key":"獨播_fm","name":"獨 播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 {"key":"Xiaoh","name":"小 寶","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
