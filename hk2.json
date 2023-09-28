@@ -2,7 +2,8 @@
   "sites": [
 //{"key":"泥巴","name":"泥 巴sexy","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"nbys","name":"泥 巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://boyss180.github.io/fm/ts0316.jar"},
-{"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
+{"key":"drpy_js_爱壹帆[飞]","name":"愛壹帆","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/爱壹帆[飞].js"},
+{"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"獨播_fm","name":"獨 播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 //{"key":"Xiaoh","name":"小 寶","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 {"key": "dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
@@ -11,7 +12,8 @@
 //{"key":"Cokemv","name":"Coke(dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
 {"key":"dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
-{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://xhdwc.tk/json/biliych.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}
+{"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":1,"style":{"type":"oval"}},
+{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://xhdwc.tk/json/biliych.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"} 
 //{"key":"bili-1","name":"🎸演唱會","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://boyss180.github.io/fm/ext/my_bili-1.json"},
 //{"key":"bili","name":"🅱嗶哩┃合集 (測試)","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"0","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://boyss180.github.io/fm/ext/my_bili.json"},
 //{"key": "dr_独播库_new","name":"獨播庫","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/独播库_new.js"},
