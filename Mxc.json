@@ -17,7 +17,7 @@
 //{ "key": "UpYun", "name": "云🔍", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd" },
 //{ "key":"Zhaozy", "name":"找源🔍", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable":0, "changeable":0, "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111" }, 
 //{ "key": "push_agent", "name": "推送", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd" },
-{ "key": "csp_WoGG", "name": "玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"},
+{ "key": "csp_WoGG", "name": "玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 //{"key":"csp_woggcli","name":"J玩偶","type":3,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1 },
 { "key":"drpy_js_南瓜影视", "name":"南瓜", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/南瓜影视.js" },
 {"key":"drpy_js_xb6v","name":"新6V","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
