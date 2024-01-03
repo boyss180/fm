@@ -24,6 +24,7 @@
 //{ "key": "新6V","name": "新6V","type": 3,"api": "csp_Xb6v","searchable": 1,"changeable": 0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 //{ "key": "索尼", "name": "索尼 ", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod", "searchable": 1, "changeable": 1 }, 
+{"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/玩偶姐姐.js"},  
 { "key": "csp_Biliych", "name": "演唱会", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://xhdwc.tk/json/biliych.json" }
 ], 
 //解X设置
