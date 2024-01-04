@@ -6,7 +6,7 @@
 {"key": "dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"drpy_js_欧乐影院[飞]","name":"歐 樂","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
-{"key":"csp_WoGG","name":"4K(測試)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},    
+//{"key":"csp_WoGG","name":"4K(測試)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},    
 //{"key":"drpy_js_爱壹帆[飞]","name":"愛壹帆","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/爱壹帆[飞].js"},
 //{"key":"csp_xBPQ_吼吼","name":"HoHo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/hoho.json"},
 //{"key": "dr_HoHo_new","name":"HoHo(drpy)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/HoHo_newnew.js"},
