@@ -3,7 +3,7 @@
 "sites": [ 
 //{ "key": "Cokemv", "name": "Coke", "type": 3, "api": "csp_Cokemv", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 {"key":"drpy_js_cokemv","name":"Coke","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/cokemv_newnew.js"},
-{ "key": "csp_kuaikan", "name": "快看", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "csp_kuaikan", "name": "快看", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
 //{ "key":"czzy", "name":"厂长", "type":3,"api": "https://xhdwc.tk/cat/czzy_open.js","searchable": 1,"changeable":1},
 //{ "key":"drpy_js_荐片", "name":"荐片", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/荐片.js", "playerType":"1" },
 //{ "key":"贱贱","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
