@@ -1,7 +1,7 @@
 {
   "sites": [
 {"key":"泥巴","name":"泥 巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
-{"key":"獨播_fm","name":"獨 播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
+//{"key":"獨播_fm","name":"獨 播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 {"key": "dr_独播库_new","name":"獨播庫","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/独播库_new.js"},
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
