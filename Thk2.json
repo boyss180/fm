@@ -5,6 +5,7 @@
 {"key":"獨播_fm","name":"獨 播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"歐 樂","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
+{"key":"dr_if101_new","name":"歐 樂2","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://boyss180.github.io/fm/ext/if101_new.js"},
 //{"key": "dr_独播库_new","name":"獨 播","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/独播库_new.js"},
 //{"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 //{"key":"影视车","name":"4K(測試)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://boyss180.github.io/fm/ext/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$https://boyss180.github.io/fm/ext/wogg.json","jar":"https://boyss180.github.io/fm/pg.jar"},
