@@ -13,8 +13,8 @@
 //{"key": "dr_88看球","name":"88看球-not ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
 //{"key":"csp_Kanqiu","name":"88看球+jar","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://boyss180.github.io/fm/Yoursmile_20240203.jar"},
 //{"key":"csp_Kanqiu","name":"88看球(測試)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"看球","name":"看球(測試)","type": 3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type": "list"}},
-{"key":"dr_JRKAN直播","name":"DJ看球(測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
+{"key":"看球","name":"看球 (測試)","type": 3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type": "list"}},
+{"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
 {"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://xhdwc.tk/json/biliych.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}
  ],
 //解X设置
