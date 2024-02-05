@@ -2,7 +2,7 @@
 "lives": [ { "name": "tvlive", "type": 0, "url": "http://home.jundie.top:81/Cat/tv/live.txt", "playerType": 1 } ], 
 "sites": [ 
 {"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"},
-{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"酷看","name": "酷看n","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable":1},
 {"key":"csp_Jianpian","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
 {"key":"csp_Nmys","name":"农民","type":3,"api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 { "key":"drpy_js_南瓜影视", "name":"南瓜","type":3, "api":"https://raw.gitmirror.com/boyss180/fm/main/lib/drpy2.min.js", "ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/南瓜影视.js"},
