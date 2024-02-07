@@ -11,7 +11,7 @@
 //{"key":"csp_xBPQ_吼吼","name":"HoHo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/hoho.json"},
 //{"key": "dr_HoHo_new","name":"HoHo(drpy)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/fm/ext/HoHo_newnew.js"},
 //{"key":"Cokemv","name":"Coke(dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
-{"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
+{"key": "dr_88看球","name":"88看球 (失效)","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
 {"key":"dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
 //{"key":"MV_vod","name":"🎤卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0,"style":{"type":"oval"}},
 {"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"} 
