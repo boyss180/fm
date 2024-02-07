@@ -2,7 +2,7 @@
   "sites": [
 //{"key":"泥巴","name":"泥 巴sexy","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"nbys","name":"泥 巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://boyss180.github.io/fm/ts0316.jar"},
-{"key":"獨播_fm","name":"獨 播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
+{"key":"獨播_fm","name":"獨 播 (失效)","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 {"key": "dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 //{"key":"星星","name":"星 星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"drpy_js_欧乐影院[飞]","name":"歐 樂","type":3,"api":"https://boyss180.github.io/fm/ext/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
