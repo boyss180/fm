@@ -12,7 +12,7 @@
 //{"key": "dr_88看球","name":"88看球not ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
 //{"key":"csp_Kanqiu","name":"88看球+jar","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://boyss180.github.io/fm/Yoursmile_20240203.jar"},
 //{"key":"csp_Kanqiu","name":"88看球(測試)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"PanSearch","name":"盘🔍","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"PanSearch","name":"盘🔍","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt"},
 {"key":"看球","name":"看球 (測試)","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type": "list"}},
 {"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
 {"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt"}
