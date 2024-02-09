@@ -8,7 +8,7 @@
 	title:'独播库[飞]',
 	// host:'https://www.duboku.tv',
 	host:'https://u.duboku.io',
-	url: '/vodplay/{playUrl}.html',
+	url: '/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
 	filter:{
