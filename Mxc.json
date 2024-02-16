@@ -7,6 +7,7 @@
 {"key":"drpy_js_南瓜影视","name":"南瓜","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/南瓜影视.js"},
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6"},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"drpy_js_sc1080","name":"圣城","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/SC1080.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
 {"key":"drpy_js_xb6v","name":"新6V","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/xb6v.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
 {"key":"豆瓣indexs","name":"豆瓣  🔍 🔍","type":3,"indexs":1,"api":"csp_DouDou","searchable":0,"changeable":0},
