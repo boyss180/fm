@@ -5,10 +5,10 @@
 {"key":"haiwaikan","name":"海 外","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"categories": ["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"] },
 //{"key":"dr_if101_new","name":"歐 樂","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/if101_new.js"},
 //{"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
-{"key":"dr_欧乐影院[飞]","name":"歐 樂-original-720p","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
-{"key":"獨播_ts","name":"獨 播ts(失效)","type":3,"api":"csp_XPathdbk","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-ts-ed.json"},
+//{"key":"dr_欧乐影院[飞]","name":"歐 樂-original-720p","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
+//{"key":"獨播_ts","name":"獨 播ts(失效)","type":3,"api":"csp_XPathdbk","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-ts-ed.json"},
 {"key":"獨播","name":"獨播old","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
-{"key":"dr_独播库_new","name":"獨 播js-not","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/独播库_new.js"},
+//{"key":"dr_独播库_new","name":"獨 播js-not","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/独播库_new.js"},
 //{"key":"csp_WoGG","name":"4K(測試)not","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},    
 //{"key": "dr_88看球","name":"88看球not ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
 //{"key":"csp_Kanqiu","name":"88看球+jar","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://boyss180.github.io/fm/Yoursmile_20240203.jar"},
@@ -100,5 +100,5 @@
 
   "ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://boyss180.github.io/fm/custom_spider_20240207.jar"
+  "spider": "https://boyss180.github.io/fm/custom_spider_20240219.jar"
 }
