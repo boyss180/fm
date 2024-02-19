@@ -7,7 +7,7 @@
 //{"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 //{"key":"dr_欧乐影院[飞]","name":"歐 樂-original-720p","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
 //{"key":"獨播_ts","name":"獨 播ts(失效)","type":3,"api":"csp_XPathdbk","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-ts-ed.json"},
-{"key":"獨播","name":"獨播old","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
+{"key":"獨播old","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
 //{"key":"dr_独播库_new","name":"獨 播js-not","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/独播库_new.js"},
 //{"key":"csp_WoGG","name":"4K(測試)not","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},    
 //{"key": "dr_88看球","name":"88看球not ⚽ 🏀","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://boyss180.github.io/fm/ext/88看球2.js"},
