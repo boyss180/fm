@@ -2,7 +2,6 @@
   "sites": [
 //{"key":"泥巴","name":"泥 巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"泥巴indexs","name":"泥 巴","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1},
-{"key":"泥巴","name":"泥巴-SEX","type":3,"api":"csp_NiNi","searchable":0,"changeable":0,"ext":"0$$$"},
 {"key":"haiwaikan","name":"海 外","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"categories": ["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"] },
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"dr_if101_new","name":"歐 樂","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/if101_new.js"},
@@ -18,6 +17,7 @@
 //{"key":"PanSearch","name":"盘🔍Test_ok","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt"},
 {"key":"安博","name":"安博点播-720p","type":4,"api":"https://ali.xn--sxr.hz.cz/site/ub1818","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"看球","name":"看球 (測試)","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type": "list"}},
+{"key":"泥巴","name":"泥巴 18+","type":3,"api":"csp_NiNi","searchable":0,"changeable":0,"ext":"0$$$"},
 {"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
 {"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json","jar":"https://dxawi.github.io/0/cc.jar;md5;1f399f48364375f6687cb69873482cc6"}
  ],
