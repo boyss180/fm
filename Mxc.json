@@ -33,7 +33,7 @@
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6"},
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"Yingtantv","name":"影探","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boyss180/fm/main/Yingtantv.jar"},
-{"key":"安博","name":"安博点播-720p","type":4,"api":"https://ali.xn--sxr.hz.cz/site/ub1818","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4-安博","name":"安 博","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
 {"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"}
 ], 
 //解X设置
