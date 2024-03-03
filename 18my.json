@@ -1,27 +1,5 @@
 {
   "sites": [
-        {
-            "key": "玩偶",
-            "name": "玩偶(VPN)",
-            "type": 3,
-            "api": "csp_Doll",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.309
-            }
-        },
-        {
-            "key": "MissAV",
-            "name": "MissAV(VPN)",
-            "type": 3,
-            "api": "csp_Miss",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.777
-            }
-        },
 {"key":"麻豆村","name":"麻豆村","type":1,"style":{ "type":"rect", "ratio":1.485 },"api": "https://madoucun.cn/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"ysj","name":"饮水机","type": 0, "api":"https://www.xrbsp.com/api/xml.php ","searchable": 1, "changeable": 1 }, 
 {"key":"富二代资源","name":"富二代","type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
@@ -31,8 +9,7 @@
 {"key":"天堂福利","name":"堂福利","type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"博天堂","name":"博天","type": 0,"style":{ "type":"rect", "ratio":1.485 },"style":{ "type":"rect", "ratio":1.485 },"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"大地资源","name":"大地","type": 0,"style":{ "type":"rect", "ratio":1.485 },"style":{ "type":"rect", "ratio":1.485 },"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
-
-        {
+          {
             "key": "森林专场",
             "name": "森林",
             "type": 1,
@@ -119,6 +96,28 @@
                 "首次亮相",
                 "AV明星1"
             ]
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶(VPN)",
+            "type": 3,
+            "api": "csp_Doll",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.309
+            }
+        },
+        {
+            "key": "MissAV",
+            "name": "MissAV(VPN)",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.777
+            }
         },
         {
     "key": "push_agent",
