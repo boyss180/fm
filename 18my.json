@@ -6,8 +6,8 @@
 {"key":"msv","name":"美少女","type": 0,"style":{ "type":"rect", "ratio":1.485 },"api": "https://www.msnii.com/api/xml.php ","searchable": 1,"changeable": 1}, 
 {"key":"bp","name":"白嫖","type": 0,"style":{ "type":"rect", "ratio":1.485 },"api": "https://www.kxgav.com/api/xml.php ","searchable": 1,"changeable": 1},
 {"key":"xne","name":"香奶儿","type": 0,"style":{ "type":"rect", "ratio":1.485 },"api": "https://www.gdlsp.com/api/xml.php ","searchable": 1,"changeable": 1},
-{"key":"天堂福利","name":"堂福利","type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"博天堂","name":"博天","type": 0,"style":{ "type":"rect", "ratio":1.485 },"style":{ "type":"rect", "ratio":1.485 },"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
+//{"key":"天堂福利","name":"堂福利","type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+//{"key":"博天堂","name":"博天","type": 0,"style":{ "type":"rect", "ratio":1.485 },"style":{ "type":"rect", "ratio":1.485 },"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"大地资源","name":"大地","type": 0,"style":{ "type":"rect", "ratio":1.485 },"style":{ "type":"rect", "ratio":1.485 },"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
           {
             "key": "森林专场",
@@ -63,7 +63,7 @@
                 "恋腿狂魔"
             ]
         },
-        {
+    //{
             "key": "探探",
             "name": "探探",
             "type": 0,
@@ -126,7 +126,7 @@
     "api": "csp_Push"
 }
       ],
-      
+  //解X设置    
   "rules": [
   {
       "name": "proxy",
