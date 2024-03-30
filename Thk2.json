@@ -12,7 +12,7 @@
 {"key":"快趣","name":"快趣 (測試)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/文才.json","jar":"https://boyss180.github.io/fm/XBPQ.jar"},
 {"key":"原创","name":"原創 (測試)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://dxawi.github.io/0/cc.jar"},
 {"key":"白嫖","name":"白飄 (測試)","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://dxawi.github.io/0/cc.jar"},
-{"key":"獨播old","name":"獨播old-not","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-fm.json"},
+{"key":"獨播old","name":"獨播old-not","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-20240330.json"},
 {"key":"dr_独播库_js","name":"獨播js","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/独播库_final.js"},
 //{"key":"獨播_ts","name":"獨播ts-not","type":3,"api":"csp_XPathdbk","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/duboku-ts-ed.json"},
 //{"key":"csp_WoGG","name":"4K(測試)not","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},    
