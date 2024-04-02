@@ -1,7 +1,7 @@
 {
   "sites": [
 {"key":"泥巴indexs","name":"泥 巴","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1},
-{"key":"csp_Jianpian_fm","name":"存 片","type":3,"api":"csp_Jianpian","searchable":1,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/jianpian_fm.json"},
+{"key":"csp_Jianpian_fm","name":"存片 (測試)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/jianpian_fm.json"},
 {"key":"快趣","name":"快 趣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/文才.json","jar":"https://boyss180.github.io/fm/XBPQ.jar"},
 {"key":"T4-安博","name":"安 安","type":4,"api":"https://tang.serv00.net/power/ub1818?token=ef611921","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 //{"key":"泥巴","name":"泥 巴ok","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
