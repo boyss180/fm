@@ -2,7 +2,7 @@
   "sites": [
 //{"key":"泥巴","name":"泥 巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"泥巴indexs","name":"泥 巴","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1},
-{"key":"玩偶","name":"玩偶 (Test)","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"影視天下第一","filter":"https://boyss180.github.io/fm/ext/wogg_fm.json"},
+{"key":"玩偶","name":"玩偶 (Test)","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"影視天下第一","filter":"https://boyss180.github.io/fm/ext/wogg_fm.json"}},
 {"key":"csp_Jianpian_fm","name":"存片 (Test)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/jianpian_fm.json"},
 //{"key":"dr_存片","name":"存片js (test)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/荐片_test.js"},
 {"key":"快趣","name":"快趣 (Test)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/文才.json","jar":"https://boyss180.github.io/fm/XBPQ.jar"},
