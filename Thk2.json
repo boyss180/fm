@@ -11,7 +11,7 @@
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"dr_欧乐original-720p","name":"歐 樂-720","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
 {"key":"dr_if101_new","name":"歐 樂","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/if101_new.js"},
-{"key":"dr_555电影","name":"555","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/555电影[V2].js"},
+//{"key":"dr_555电影","name":"555","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/555电影[V2].js"},
 //{"key":"dr_爱壹帆_new","name":"愛壹帆","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/爱壹帆[飞].js"},
 {"key":"dr_华乐影院[飞]","name":"華 樂","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/华乐影院[飞].js"},
 //{"key":"原创","name":"原創 (測試)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://dxawi.github.io/0/cc.jar"},
