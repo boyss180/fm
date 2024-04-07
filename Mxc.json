@@ -1,7 +1,7 @@
 { "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php", "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
 "lives": [ { "name": "tvlive", "type": 0, "url": "http://home.jundie.top:81/Cat/tv/live.txt", "playerType": 1 } ], 
 "sites": [ 
-{"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
 {"key":"drpy_荐片2","name":"荐片","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/ext/荐片_ed.js"},
 //{"key":"csp_Jianpian_fm","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"changeable":0,"ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/ext/jianpian_fm.json","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/custom_spider_20240402.jar"},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0},
