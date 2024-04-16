@@ -28,7 +28,7 @@
 {"key":"看球","name":"看球 (測試)","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type": "list"}},
 {"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
 {"key":"泥巴","name":"泥巴 18+","type":3,"api":"csp_NiNi","searchable":0,"changeable":0,"ext":"0$$$"},
-{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json","jar":"https://dxawi.github.io/0/cc.jar;md5;1f399f48364375f6687cb69873482cc6"}
+{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/biliych.json","jar":"https://dxawi.github.io/0/cc.jar;md5;1f399f48364375f6687cb69873482cc6"}
  ],
 //解X设置
   "lives": [
