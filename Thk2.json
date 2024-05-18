@@ -14,7 +14,7 @@
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"dr_欧乐original-720p","name":"歐 樂-720","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
 {"key":"dr_if101_new","name":"歐 樂","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/if101_new.js"},
-{"key":"文才","name":"文才 (Test)","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/wex.txt"},
+{"key":"文才","name":"文才 (Test)","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/wex.jar"},
 //{"key":"dr_555电影","name":"555","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/555电影[V2].js"},
 //{"key":"dr_爱壹帆_new","name":"愛壹帆-Original","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/爱壹帆[飞].js"},
 {"key":"dr_华乐影院[飞]","name":"華 樂","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/华乐影院[飞].js"},
