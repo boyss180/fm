@@ -2,7 +2,7 @@
 
 var rule = {
 	title:'欧乐影院[飞]',
-	host:'https://www.olevod.com',
+	host:'https://www.olehdtv.com',
 	// url:'/index.php/vod/show/id/fyclass/page/fypage.html',
 	url:'/index.php/vod/show/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
