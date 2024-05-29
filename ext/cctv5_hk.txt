@@ -1,0 +1,2 @@
+CCTV5,#genre#
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
