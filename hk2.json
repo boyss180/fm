@@ -20,13 +20,9 @@
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"}
  ],
 //解X设置
-  "lives": [
-    {
-      "name": "TXT",
-      "type": 0,
-      "url": "https://boyss180.github.io/fm/ext/TS-3-unicom_cctv_hk.txt"
-    }
-  ],
+"lives":[
+{"name":"Test","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1},
+{"name":"CCTV5","type":0,"url":"https://boyss180.github.io/fm/ext/cctv5_hk.txt","playerType":1}],
   "doh": [
     {
       "name": "Google",
