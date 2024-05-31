@@ -1,6 +1,6 @@
 {"wallpaper":"https://picsum.photos/1280/720/?blur=5","spider":"https://boyss180.github.io/fm/cc_20240419.jar",
 "lives":[
-{"name":"Test","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":2},
+{"name":"Test","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1},
 {"name":"CCTV5","type":0,"url":"https://boyss180.github.io/fm/ext/cctv5_hk.txt","playerType":1}],
 "sites":[
 //{"key":"泥巴","name":"泥 巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
