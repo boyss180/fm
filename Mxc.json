@@ -1,4 +1,4 @@
-{ "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716675606626/fan.txt;md5;54d359c231145feb77bb43fcb3fbdbec",
+{ "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
 "lives":[{"name":"tvlive","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1}], 
 "sites":[ 
 {"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
@@ -10,8 +10,7 @@
 //{"key":"drpy_js_南瓜影视","name":"南瓜","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/南瓜影视.js"},
 {"key":"drpy_js_sc1080","name":"圣城","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/SC1080.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
-//{"key":"文才","name":"文才 (Test)","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt;md5;aaed7918b3aae5960726413304c4f6c2"},
-//{"key":"XBPQ文才","name":"文才 (Test)","type":3,"api":"csp_XBPQ","searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/文才.json","jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/boyss180/fm/main/XBPQ.jar"},
+{"key":"文采","name":"文才 (Test)","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"圣城1080","name":"圣城 (Test)","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/圣城1080.json","jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/boyss180/fm/main/XBPQ.jar"},
 //{"key":"T4-安博","name":"安博 (Test)","type":4,"api":"https://tang.HZ.CZ/power/ub1818?token=ef611921","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 //{"key":"麻豆村","name":"麻豆村","type":1,"style":{ "type":"rect", "ratio":1.485 },"api": "https://madoucun.cn/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"changeable":0,"filterable":0},
