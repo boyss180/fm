@@ -3,7 +3,7 @@
 {"name":"Test","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1},
 {"name":"CCTV5","type":0,"url":"https://boyss180.github.io/fm/ext/cctv5_hk.txt","playerType":1}],
 "sites":[
-{"key":"泥巴indexs","name":"泥巴 (失效)","type":3,"indexs":1,"api":"csp_NiNi","searchable":0,"changeable":0},
+{"key":"泥巴indexs","name":"泥 巴","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/cs_20240628.jar"},
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1},
 {"key":"文采","name":"文 才","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"changeable":1},
 {"key":"haiwaikan","name":"海 外","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"categories": ["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"]},
