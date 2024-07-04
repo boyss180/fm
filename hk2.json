@@ -6,6 +6,7 @@
 //{"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1},
 {"key":"苹果indexs","name":"蘋 果","type":3,"indexs":1,"api":"csp_LiteApple","searchable":1,"changeable":1},
 {"key":"文采","name":"文 才","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"changeable":1},
+{"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"dr_欧乐original-720p","name":"720","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/欧乐影院[飞].js"},
 //{"key":"低端","name":"低端 (外劇)ok","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"changeable":1},
 //{"key":"泥巴indexs","name":"泥 巴not","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/cs_20240628.jar"},
