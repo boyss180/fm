@@ -12,7 +12,7 @@
 //{"key":"drpy_js_南瓜影视","name":"南瓜","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/南瓜影视.js"},
 {"key":"drpy_js_sc1080","name":"圣城","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/SC1080.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
-{"key":"php_madou","name":"麻豆 (Test2)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"php_madou","name":"麻豆 (Test2)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
 //{"key":"php_madou","name":"麻豆 (Test)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"圣城1080","name":"圣城 (Test)","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/圣城1080.json","jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/boyss180/fm/main/XBPQ.jar"},
 //{"key":"dr_哔嘀影视","name":"哔嘀","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/哔嘀影视.js"},
