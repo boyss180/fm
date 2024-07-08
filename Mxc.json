@@ -4,16 +4,15 @@
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0},
-{"key":"php_hmezy","name":"黑木 (Test)","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"changeable":0},
 {"key":"文采","name":"文才","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
-//{"key":"drpy_荐片2","name":"荐片","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/荐片_ed.js"},
+//{"key":"drpy_荐片2","name":"荐片ok","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/荐片_ed.js"},
 //{"key":"csp_Jianpian_fm","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/jianpian_fm.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/boyss180/fm/main/custom_spider_20240402.jar"},
 //{"key":"农民","name":"农民","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 //{"key":"drpy_js_南瓜影视","name":"南瓜","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/南瓜影视.js"},
 {"key":"drpy_js_sc1080","name":"圣城","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/SC1080.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
-{"key":"php_madou","name":"麻豆 (Test2)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
-//{"key":"php_madou","name":"麻豆 (Test)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"php_madou","name":"麻豆 (Test)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
+//{"key":"php_madou","name":"麻豆 (Test0)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"圣城1080","name":"圣城 (Test)","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"changeable":0,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/圣城1080.json","jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/boyss180/fm/main/XBPQ.jar"},
 //{"key":"dr_哔嘀影视","name":"哔嘀","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/哔嘀影视.js"},
 {"key":"豆瓣indexs","name":"豆瓣  🔍 🔍","type":3,"indexs":1,"api":"csp_DouDou","searchable":0,"changeable":0},
@@ -24,7 +23,7 @@
 {"key":"UpYun","name":"云🔍","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 //{ "key":"Zhaozy", "name":"找源🔍", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable":0, "changeable":0, "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"}, 
 //{ "key": "push_agent", "name": "推送", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"}
+{"key":"Biliych","name":"演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"}
 ], 
 //解X设置
 "doh":[
