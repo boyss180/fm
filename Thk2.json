@@ -26,7 +26,7 @@
 //{"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
 //{"key":"泥巴","name":"泥巴18(cs-jar)","type":3,"api":"csp_NiNi","searchable":0,"changeable":0,"ext":"0$$$","jar":"https://boyss180.github.io/fm/cs_20240628.jar"},
 {"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"}
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"}
  ],
 //解X设置
 "doh":[
