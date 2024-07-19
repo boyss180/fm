@@ -5,7 +5,7 @@
 //{"key":"泥巴indexs","name":"泥巴 (失效)","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1},
 //{"key":"泥巴indexs","name":"泥巴(cs-jar)","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/cs_20240628.jar"},
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"php_hmezy","name":"木耳-New","type":4,"api":"https://t4.doube.eu.org/heimuer.php","playUrl":"json:https://4tvbox.ggff.net/noad_v2.php?url=","searchable":1,"changeable":1},
+{"key":"php_hmezy","name":"木耳-New","type":4,"api":"https://t4.doube.eu.org/heimuer.php","playUrl":"json:https://4tvbox.ggff.net/noad_v4.php?url=","searchable":1,"changeable":1},
 //{"key":"php_hmezy","name":"木 耳","type":4,"api":"https://demobe.serv00.net/heimuer.php","playUrl":"json:https://4tvbox.ggff.net/noad_v2.php?url=","searchable":1,"changeable":1},
 {"key":"文采","name":"文 才","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
