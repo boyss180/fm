@@ -20,8 +20,6 @@
 {"key":"ys2","name":"華人 (Test)","type":1,"api":"https://api.huaren.live/api.php/tvbox","playUrl":"json:https://4tvbox.ggff.net/t.php?url=","header":{"User-Agent":"okhttp/3.12.13"},"searchable":1,"changeable":1},
 {"key":"TS-安博","name":"安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=89bf36f9","searchable":1,"changeable":0},
 {"key":"TS-安博18+","name":"安博18+","type":4,"api":"https://tang.hz.cz/power/ub18?token=89bf36f9","searchable":0,"changeable":0,"ext":true},
-{"name":"斯卡特 (Test)","url":"https://tang.hz.cz/zb/stv?token=89bf36f9"},
-{"name":"ETH(JS)(Test)","api":"https://tang.hz.cz/js/ethtv.js","type":3,"ua":"okhttp/4.12.0"},
 {"key":"采集拼接","name":"采集 (Test)","type":1,"api":"http://zhangqun66.serv00.net/1581.php","searchable":1,"changeable":0},
 //{"key":"csp_iolecc","name":"爱欧乐not (Test)","type":3,"api":"csp_XBPQ","jar":"https://boyss180.github.io/fm/XBPQ.jar","ext":{"分类url":"https://www.iole.cc/vodtype/{cateId}.html","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 //{"key":"dr_华乐影院[飞]","name":"華 樂not","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/华乐影院[飞].js"},
