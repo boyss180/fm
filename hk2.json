@@ -1,8 +1,8 @@
 {"wallpaper":"https://picsum.photos/1280/720/?blur=5","spider":"https://boyss180.github.io/fm/cc_20240419.jar",
 "lives":[{"name":"Test","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1}],
 "sites":[
-//{"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1},
-{"key":"苹果indexs","name":"蘋 果","type":3,"indexs":1,"api":"csp_LiteApple","searchable":1,"changeable":1},
+{"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1},
+//{"key":"苹果indexs","name":"蘋 果","type":3,"indexs":1,"api":"csp_LiteApple","searchable":1,"changeable":1},
 {"key":"文采","name":"文 才","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"changeable":1},
 {"key":"php_hmezy","name":"木 耳","type":4,"api":"https://t4.doube.eu.org/del_ads_heimuer.php","searchable":1,"changeable":1},
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
