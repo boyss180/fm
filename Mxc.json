@@ -21,7 +21,7 @@
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
 {"key":"TS-安博18","name":"安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=89bf36f9","searchable":0,"changeable":0,"ext":true},
 {"key":"php_madou","name":"麻豆 (Test)","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
-{"key":"py_liushoushaofu","name":"留守少妇 (Test)","type":4,"api": "https://py.doube.eu.org/api?site=liushoushaofu","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"py_liushoushaofu","name":"少妇 (Test)","type":4,"api": "https://py.doube.eu.org/api?site=liushoushaofu","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
 //{"key":"实验金鹰","name":"金鹰 (Test)","type":1,"api": "http://zhangqun66.serv00.net/jy.php","searchable":0,"changeable":0},
 //{"key":"短剧","name":"短劇","type":3,"api":"csp_Djtt","searchable":0,"changeable":0},
 //{"key":"php_madou","name":"麻豆 (Test0)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"quickSearch":0,"filterable":0},
