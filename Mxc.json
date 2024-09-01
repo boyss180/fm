@@ -1,4 +1,4 @@
-{ "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350",
+{ "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725170502493/fan.txt;md5;6572bdf43493033ca692116460a12bac",
 "lives":[
 {"name":"TV1","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1},
 {"name":"TV2","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
@@ -7,7 +7,7 @@
 "sites":[ 
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0},
+//{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文才","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"php2_hmezy","name":"木耳 (Test)","type":4,"api":"https://t4.doube.eu.org/heimuer.php","searchable":1,"changeable":0},
 //{"key":"TS-黑木耳","name":"TS木耳 (Test)","type":4,"api":"https://tang.hz.cz/power/hme?token=89bf36f9","searchable":1,"changeable":0},
@@ -20,9 +20,9 @@
 //{"key":"drpy_js_sc1080","name":"圣城","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/SC1080.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://raw.gitmirror.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://raw.gitmirror.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
 {"key":"TS-安博18","name":"安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=89bf36f9","searchable":0,"changeable":0,"ext":true},
-{"key":"php_madou","name":"麻豆 (Test)","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"py_aidouchuanmei","name":"爱豆 (Test)","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
-{"key":"py_liushoushaofu","name":"少妇 (Test)","type":4,"api": "https://py.doube.eu.org/api?site=liushoushaofu","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"php_madou","name":"麻豆 (Test)","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
+//{"key":"py_liushoushaofu","name":"少妇 (Test)","type":4,"api": "https://py.doube.eu.org/api?site=liushoushaofu","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
 //{"key":"实验金鹰","name":"金鹰 (Test)","type":1,"api": "http://zhangqun66.serv00.net/jy.php","searchable":0,"changeable":0},
 //{"key":"短剧","name":"短劇","type":3,"api":"csp_Djtt","searchable":0,"changeable":0},
 //{"key":"php_madou","name":"麻豆 (Test0)","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"quickSearch":0,"filterable":0},
