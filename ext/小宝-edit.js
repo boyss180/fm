@@ -1,7 +1,7 @@
 muban.首图.二级.title = 'h1&&Text;.data--span:eq(0)&&Text';
 muban.首图.二级.desc = '#score&&Text;;;.data--span:eq(2)&&Text;.data--span:eq(3)&&Text';
 var rule={
-	title:'小宝影院[飞]',
+	title:'小宝-edit',
 	模板:'首图',
 	host:'https://xiaoxintv.com',
 	url:'/index.php/vod/show/id/fyfilter.html',
