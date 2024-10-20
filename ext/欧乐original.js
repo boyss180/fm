@@ -1,7 +1,7 @@
 // 搜索功能关闭中
 
 var rule = {
-	title:'欧乐影院[飞]',
+	title:'欧乐original',
 	host:'https://www.olehdtv.com',
 	// url:'/index.php/vod/show/id/fyclass/page/fypage.html',
 	url:'/index.php/vod/show/id/fyfilter.html',
