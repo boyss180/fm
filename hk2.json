@@ -1,7 +1,7 @@
 {"wallpaper":"https://picsum.photos/1280/720/?blur=5","spider":"https://boyss180.github.io/fm/cc_20240419.jar",
 "lives":[
- {"name":"Test","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1},
- {"name":"华人TV","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"}],
+{"name":"Test","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1},
+{"name":"華人TV","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣  🔍","type":3,"indexs":1,"api":"csp_DouDou","searchable":0,"changeable":0},
 //{"key":"苹果","name":"蘋果 (失效)","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1},
