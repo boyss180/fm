@@ -1,6 +1,6 @@
 {"wallpaper":"https://picsum.photos/1280/720/?blur=5","spider":"https://boyss180.github.io/fm/cc_20240419.jar",
 "lives":[
-{"name":"HKTV","type":0,"url":"./ext/AKTV_4K.txt","ua":"okhttp/4.12.0","playerType":1},
+{"name":"HKCN","type":0,"url":"./ext/AKTV_4K.txt","ua":"okhttp/4.12.0","playerType":1},
 {"name":"華人TV","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"},
 {"name":"肥羊TV","url":"./ext/fatY_live.txt","playerType":1},
 {"name":"Test(失效)","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1}],
