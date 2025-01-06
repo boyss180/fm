@@ -3,6 +3,7 @@
 {"name":"華人","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"},
 {"name":"HKCN","type":0,"url":"./ext/AKTV_4K.txt","ua":"okhttp/4.12.0","playerType":1},
 {"name":"肥羊","url":"./ext/fatY_live.txt","playerType":1},
+{"name":"沐辰","url":"./ext/沐辰.txt"},
 {"name":"台灣","url":"https://py.doube.eu.org/Sub?type=litv"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣  🔍","type":3,"indexs":1,"api":"csp_DouDou","searchable":0,"changeable":0},
