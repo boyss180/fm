@@ -3,6 +3,7 @@
 //{"name":"Test(失效)","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1},
 {"name":"HKCN","type":0,"url":"./ext/AKTV_4K.txt","ua":"okhttp/4.12.0","playerType":1},
 {"name":"肥羊TV","url":"./ext/fatY_live.txt","playerType":1},
+{"name":"沐辰ed","url":"./ext/沐辰.txt"},
 {"name":"沐辰","url":"http://168.138.9.147:50001/Sub?type=txt"},
 {"name":"華人TV(失效)","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"}],
 "sites":[
