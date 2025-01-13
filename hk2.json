@@ -23,9 +23,8 @@
 //{"key":"看球","name":"看球 (按點播)","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type": "list"}},
 //{"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
 {"key":"直播转点播","name":"直播 (按點播)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"1,3"},
-{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"}
- ],
+{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://boyss180.github.io/fm/20240419_bili.jar"}
+],
 //解X设置
 "doh":[
 {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
