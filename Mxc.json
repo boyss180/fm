@@ -19,7 +19,7 @@
 //{"key":"drpy_js_南瓜影视","name":"南瓜","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/ext/南瓜影视.js"},
 //{"key":"drpy_js_sc1080","name":"圣城","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/ext/SC1080.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"hmys1","name":"自黑木","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"changeable":0},
-{"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
+{"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
 {"key":"TS-安博18","name":"安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=bec078e6","searchable":0,"changeable":0,"ext":true},
 {"key":"直播转点播","name":"直播 (按點播)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"1,3"},
 //{"key":"TS-hm","name":"木耳專線","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","playUrl":"json:https://4tvbox.ggff.net/hme.php?url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"},"searchable":1,"changeable":1,"categories":["国产剧","港剧","欧美剧","台剧","韩剧","日剧","泰剧","国产综艺","欧美综艺","韩国综艺","日本综艺","日本动漫","国产动漫","欧美动漫","动画电影","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","同性片","经典片"]},
@@ -37,7 +37,7 @@
 //{ "key": "push_agent", "name": "推送", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"抠搜","name":"抠🔍","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"夸搜","name":"夸🔍","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"Biliych","name":"演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://ghgo.xyz/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
+{"key":"Biliych","name":"Test演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
 ], 
 //解X设置
 "doh":[
