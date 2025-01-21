@@ -1,10 +1,10 @@
 {"wallpaper":"https://picsum.photos/1280/720/?blur=5","spider":"https://boyss180.github.io/fm/cc_20240419.jar",
 "lives":[
-//{"name":"華人","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"},
+{"name":"測試","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"},
 {"name":"HKCN","url":"./ext/AKTV_4K.txt","ua":"okhttp/4.12.0"},
-{"name":"沐辰","url":"./ext/沐辰.txt"},
+{"name":"沐辰(失效)","url":"./ext/沐辰.txt"},
 {"name":"肥羊","url":"./ext/fatY_live.txt"},
-{"name":"台灣","url":"https://py.doube.eu.org/Sub?type=litv"}],
+{"name":"台灣(失效)","url":"https://py.doube.eu.org/Sub?type=litv"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣  🔍","type":3,"indexs":1,"api":"csp_DouDou","searchable":0,"changeable":0},
 //{"key":"苹果","name":"蘋果 (失效)","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1},
