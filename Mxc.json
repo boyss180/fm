@@ -1,4 +1,4 @@
-{ "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf",
+{ "wallpaper":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738479478359/f0202.txt;md5;9dbf4e8b686d614d5d6ae609347742ab",
 "lives":[
 {"name":"JD","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1},
 {"name":"央視","url":"http://tawangxunyuan.vicp.cc:4000/Sub?type=m3u","catchup":{"type":"append","replace":"livemode=1,livemode=4","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
