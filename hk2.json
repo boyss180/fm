@@ -4,7 +4,7 @@
 {"name":"👉香港👈","url":"./ext/AKTV_4K.txt","ua":"okhttp/4.12.0"},
 {"name":"👉央視👈","url":"http://tawangxunyuan.vicp.cc:4000/Sub?type=m3u","catchup":{"type":"append","replace":"livemode=1,livemode=4","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"👉沐辰👈","url":"./ext/沐辰.txt"},
-{"name":"👉公益👈","url":"https://live.wqwqwq.sbs/tv.m3u"},
+//{"name":"👉公益👈","url":"https://live.wqwqwq.sbs/tv.m3u"},
 //{"name":"👉咪咕👈","url":"https://4tvbox.ggff.net/migu.m3u"},
 //{"name":"👉台灣👈(失效)","url":"https://py.doube.eu.org/Sub?type=litv"},
 {"name":"👉肥羊👈","url":"./ext/fatY_live.txt"}],
