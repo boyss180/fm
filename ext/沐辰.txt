@@ -293,8 +293,6 @@ CCTV17 农业农村,http://168.138.9.147:50001/1000000005000056836/ystenlive/ind
 咪咕(澳洲),#genre#
 咪咕澳洲20,http://168.138.9.147:50001/3000000020000011528/FifastbLive/index.m3u8$8M1080_咪视通
 咪咕澳洲22,http://168.138.9.147:50001/3000000020000011530/FifastbLive/index.m3u8$8M1080_咪视通
-
-咪咕,#genre#
 咪咕20,http://live.wqwqwq.sbs/itv/3000000020000011528.m3u8?cdn=FifastbLive
 咪咕22,http://live.wqwqwq.sbs/itv/3000000020000011530.m3u8?cdn=FifastbLive
 
