@@ -1,3 +1,4 @@
+直播,#genre#
 CCTV1,http://tvcdn.kkmz.top/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1-50-FPS,http://tvcdn.kkmz.top/itv/5000000004000002226.m3u8?cdn=bestzb
 CCTV1-HEVC,http://tvcdn.kkmz.top/itv/1000000005000265001.m3u8?cdn=ystenlive
@@ -187,3 +188,11 @@ SiTV-魅力足球,http://tvcdn.kkmz.top/itv/5000000011000031207.m3u8?cdn=bestzb
 SiTV-七彩戏剧,http://tvcdn.kkmz.top/itv/5000000011000031116.m3u8?cdn=bestzb
 SiTV-生活时尚,http://tvcdn.kkmz.top/itv/5000000002000019634.m3u8?cdn=bestzb
 SiTV-游戏风云,http://tvcdn.kkmz.top/itv/5000000011000031114.m3u8?cdn=bestzb
+
+咪咕(澳洲),#genre#
+咪咕澳洲20,http://168.138.9.147:50001/3000000020000011528/FifastbLive/index.m3u8$8M1080_咪视通
+咪咕澳洲22,http://168.138.9.147:50001/3000000020000011530/FifastbLive/index.m3u8$8M1080_咪视通
+咪咕20,http://live.wqwqwq.sbs/itv/3000000020000011528.m3u8?cdn=FifastbLive
+咪咕22,http://live.wqwqwq.sbs/itv/3000000020000011530.m3u8?cdn=FifastbLive
+咪咕4K-1,http://tvcdn.kkmz.top/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕4K-2,http://tvcdn.kkmz.top/itv/3000000010000015686.m3u8?cdn=FifastbLive
