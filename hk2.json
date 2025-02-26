@@ -7,7 +7,7 @@
 //{"name":"👉公益👈","url":"https://live.wqwqwq.sbs/tv.m3u"},
 //{"name":"👉咪咕👈","url":"https://4tvbox.ggff.net/migu.m3u"},
 //{"name":"👉台灣👈(失效)","url":"https://py.doube.eu.org/Sub?type=litv"},
-{"name":"👉肥羊👈","url":"./ext/fatY_live.txt"}],
+{"name":"👉肥羊咪咕👈","url":"./ext/fatY_live.txt"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣  🔍","type":3,"indexs":1,"api":"csp_DouDou","searchable":0,"changeable":0},
 //{"key":"苹果","name":"蘋果 (失效)","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1},
