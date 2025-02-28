@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740660095211/f0227a.txt;md5;ef40bb1ca5748055513a7a7cdebc2c24",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "lives":[
 {"name":"JD","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1},
@@ -11,7 +11,8 @@
 {"name":"牛播一","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"}],
 "sites":[ 
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
-{"key":"荐片Fat","name":"荐片","api":"csp_Jianpian","type":3,"playerType":2,"searchable":1,"changeable":0,"ext":"http://api2.rinhome.com","jar":"https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"},
+{"key":"贱贱","name":"荐片","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+//{"key":"荐片Fat","name":"荐片","api":"csp_Jianpian","type":3,"playerType":2,"searchable":1,"changeable":0,"ext":"http://api2.rinhome.com","jar":"https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文才","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
@@ -25,7 +26,7 @@
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
 {"key":"TS-安博18","name":"安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=bec078e6","searchable":0,"changeable":0,"ext":true},
 {"key":"旺旺短剧","name":"短剧 (VPN)","type":1,"api":"http://zhangqun1818.serv00.net:5052","style":{"type":"rect","ratio":1.33},"searchable":0,"changeable":0},
-//{"key":"Wexduanjuvop","name":"短剧2","type":3,"api":"csp_WexduanjuvopGuard","searchable":0,"changeable":0,"txt":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740321127024/wex.txt"},
+{"key":"Wexduanjuvop","name":"🍉短剧秒播","type":3,"api":"csp_WexduanjuvopGuard","searchable":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt;md5;81cb4bb3c703152bfe1df91bf0881956"},
 {"key":"直播转点播","name":"直播 (按點播)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"1,3"},
 //{"key":"TS-hm","name":"木耳專線","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","playUrl":"json:https://4tvbox.ggff.net/hme.php?url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"},"searchable":1,"changeable":1,"categories":["国产剧","港剧","欧美剧","台剧","韩剧","日剧","泰剧","国产综艺","欧美综艺","韩国综艺","日本综艺","日本动漫","国产动漫","欧美动漫","动画电影","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","同性片","经典片"]},
 //{"key":"py_aidouchuanmei","name":"爱豆 (Test)","type":4,"api":"https://py.doube.eu.org/spider?site=AiDou","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
