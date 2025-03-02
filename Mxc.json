@@ -3,11 +3,12 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "lives":[
 {"name":"JD","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1},
-{"name":"央視","url":"http://tawangxunyuan.vicp.cc:4000/Sub?type=m3u","catchup":{"type":"append","replace":"livemode=1,livemode=4","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
+//{"name":"央視","url":"http://tawangxunyuan.vicp.cc:4000/Sub?type=m3u","catchup":{"type":"append","replace":"livemode=1,livemode=4","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 //{"name":"沐辰","url":"http://168.138.9.147:50001/Sub?type=txt"},
 {"name":"TVT","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/refs/heads/main/ext/AKTV_4K.txt","ua":"okhttp/4.12.0","playerType":1},
 {"name":"肥羊","url":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/refs/heads/main/ext/fatY_live.txt","playerType":1},
 {"name":"AKTV","type":0,"url":"https://aktv.top/live.m3u","playerType":1},
+{"name":"V4聚合-左右换线","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
 {"name":"牛播一","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"}],
 "sites":[ 
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
