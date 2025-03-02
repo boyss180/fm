@@ -38,7 +38,7 @@
 {"key":"PanSearch","name":"盘🔍","type":3,"api":"csp_PanSearchGuard","searchable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{"key":"PanSou","name":"盘2🔍","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"一🔍","type":3,"api":"csp_YiSoGuard","searchable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}, 
-{"key":"Sso","name":"三🔍","type":3,"api":"csp_PanSsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+//{"key":"Sso","name":"三🔍","type":3,"api":"csp_PanSsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{"key":"UpYun","name":"云🔍","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{ "key":"Zhaozy", "name":"找源🔍", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable":0, "changeable":0, "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"}, 
 //{ "key": "push_agent", "name": "推送", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
