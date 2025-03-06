@@ -7,6 +7,7 @@
 //{"name":"👉公益👈","url":"https://live.wqwqwq.sbs/tv.m3u"},
 //{"name":"👉咪咕👈","url":"https://4tvbox.ggff.net/migu.m3u"},
 //{"name":"👉台灣👈(失效)","url":"https://py.doube.eu.org/Sub?type=litv"},
+{"name":"👉ITV👈","type":0,"url":"https://7220.kstore.space/x8.txt","epg":"http://epg.51zmt.top:8000/e.xml","timeout":"3","playerType":2,"ua":"AptvPlayer/1.4.0,okhttp/3.15"},
 {"name":"👉肥羊咪咕👈","url":"./ext/fatY_live.txt"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣  🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
