@@ -192,6 +192,5 @@ SiTV-游戏风云,http://tvcdn.kkmz.top/itv/5000000011000031114.m3u8?cdn=bestzb
 咪咕,#genre#
 咪咕20,http://live.wqwqwq.sbs/itv/3000000020000011528.m3u8?cdn=FifastbLive
 咪咕22,http://live.wqwqwq.sbs/itv/3000000020000011530.m3u8?cdn=FifastbLive
-PPTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=yu&mode=1$
 咪咕4K-1,http://tvcdn.kkmz.top/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕4K-2,http://tvcdn.kkmz.top/itv/3000000010000015686.m3u8?cdn=FifastbLive
