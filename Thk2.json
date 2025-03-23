@@ -4,6 +4,7 @@
 {"name":"👉香港👈","url":"./ext/AKTV_4K.txt","ua":"okhttp/4.12.0"},
 {"name":"HKTest","url":"http://aktv.space/live.m3u"},
 {"name":"肥羊","url":"./ext/fatY_live.txt"},
+{"name":"ITVTest","type":0,"url":"https://7220.kstore.space/x8.txt","epg":"http://epg.51zmt.top:8000/e.xml","timeout":"3","playerType":2,"ua":"AptvPlayer/1.4.0,okhttp/3.15"},
 {"name":"沐辰ed","url":"./ext/沐辰.txt"},
 {"name":"沐辰","url":"http://168.138.9.147:50001/Sub?type=txt"},
 {"name":"台灣(失效)","url":"https://py.doube.eu.org/Sub?type=litv"},
