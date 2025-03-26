@@ -13,7 +13,7 @@
 {"name":"V4聚合-左右换线","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
 {"name":"牛播一","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"}],
 "sites":[ 
-{"key":"玩偶","name":"玩偶T","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+{"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"贱贱Fan","name":"荐片","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"荐片Fat","name":"荐片","api":"csp_Jianpian","type":3,"playerType":2,"searchable":1,"changeable":0,"ext":"http://api2.rinhome.com","jar":"https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
