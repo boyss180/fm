@@ -15,6 +15,7 @@
 //{"key":"泥巴indexs","name":"泥巴 (失效)","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1},
 //{"key":"泥巴indexs","name":"泥巴(cs-jar)","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/cs_20240628.jar"},
 {"key":"豆瓣indexs","name":"豆瓣newjar  🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
+{"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":1,"api":"csp_Uvod","playerType":2,"filterable":1},
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"php_heimuer","name":"木耳-MS","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"changeable":1},
