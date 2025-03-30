@@ -49,6 +49,7 @@
 {"key":"PanSso","name":"盘他🔍","type":3,"api":"csp_PanSsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YpanSo","name":"盘她🔍","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"xzso","name":"盘它🔍","type":3,"api":"csp_XzsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"926","name":"⚽926 (按點播)","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"Biliych","name":"演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
 ], 
 //解X设置
