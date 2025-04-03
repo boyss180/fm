@@ -25,7 +25,7 @@
 //{"key":"hmys1","name":"自黑木","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"changeable":0},
 {"key":"drpy_js_电影港","name":"电影港","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","ext":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/dygang.js","playerType":"1","searchable":1,"changeable":0,"timeout":30},
 {"key":"新6V","name":"新6V","type":3,"api":"csp_SixVGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
-{"key":"TS-安博18","name":"安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=bec078e6","searchable":0,"changeable":0,"ext":true},
+{"key":"TS-安博18","name":"安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":0,"changeable":0,"ext":true},
 //{"key":"可可","name":"可可","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"js_youyou","name":"悠悠","type":3,"api":"https://json.doube.eu.org/js/youyou.js","searchable":1,"filterable":0,"changeable":0},
 {"key":"旺旺短剧","name":"短剧 (VPN)","type":1,"api":"http://zhangqun1818.serv00.net:5052","style":{"type":"rect","ratio":1.33},"searchable":1,"changeable":0},
