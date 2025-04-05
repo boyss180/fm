@@ -25,7 +25,7 @@
 //{"key":"沐辰爱瓜","name":"阿 瓜","type":4,"api":"https://spider.doube.eu.org/spider?site=AiGuaTV","searchable":1,"changeable":1},
 //{"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=bdef82df","searchable":1,"changeable":1},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
-{"key":"Qile优视频","name":"優視頻 (即將失效)","type":3,"searchable":1,"changeable":1,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"https://boyss180.github.io/fm/fm_cs.jar"},
+{"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":1,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"https://boyss180.github.io/fm/fm_cs.jar"},
 {"key":"低端","name":"低 端","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"changeable":1},
 //{"key":"TS-欧乐","name":"720(即將失效)","type":4,"api":"https://tang.hz.cz/power/olelive?token=bec078e6","searchable":1,"changeable":1},
 {"key":"TS-安博","name":"安 安","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
