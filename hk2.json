@@ -21,8 +21,7 @@
 {"key":"hmys1","name":"自木耳","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"changeable":1},
 //{"key":"白白","name":"白 白","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"huarenoktv","name":"華 人","type":1,"api":"https://huaren.live/api.php/tvbox","playUrl":"json:https://parse.okhuaren.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"header":{"User-Agent":"Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/131.0.0.0Safari/537.36","Referer":"test"}},
-{"key":"文采","name":"文才(失效)","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"changeable":1},
-//{"key":"沐辰爱瓜","name":"阿 瓜","type":4,"api":"https://spider.doube.eu.org/spider?site=AiGuaTV","searchable":1,"changeable":1},
+{"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"changeable":1},
 //{"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=bdef82df","searchable":1,"changeable":1},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
 {"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":1,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"https://boyss180.github.io/fm/fm_cs.jar"},
@@ -32,8 +31,8 @@
 {"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/小宝-edit.js"},
 //{"key":"看球","name":"看球 (按點播)","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type": "list"}},
 //{"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
-{"key":"直播转点播","name":"直播 (按點播)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"1,3"},
-{"key":"926","name":"⚽926 (按點播)","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
+//{"key":"直播转点播","name":"直播 (按點播)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"1,3"},
+//{"key":"926","name":"⚽926 (按點播)","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://boyss180.github.io/fm/20240419_bili.jar"}
 ],
 //解X设置
