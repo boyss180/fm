@@ -26,7 +26,7 @@
 {"key": "TS-獨播庫","name": "獨播庫-TS","type": 4,"api": "https://tang.hz.cz/power/duboku?token=bdef82df","searchable":1,"changeable":1},
 {"key":"dr_欧乐original-720p","name":"720 (Test)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
 {"key":"TS-欧乐","name":"720-TS","type":4,"api":"https://tang.hz.cz/power/olelive?token=bdef82df","searchable":1,"changeable":1},
-{"key":"dr_网飞猫","name":"網 飛","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/网飞猫.js"},
+//{"key":"dr_网飞猫","name":"網 飛","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/网飞猫.js"},
 //{"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"dr_小宝-edit","name":"小寶 (Test)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/小宝-edit.js"},
 {"key":"TS-安博","name":"安 安","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
