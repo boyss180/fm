@@ -1,6 +1,6 @@
 var rule = {
     title: '网飞猫[优]',
-    host: 'https://www.ncat1.app',
+    host: 'https://www.ncat21.app',
     // url: '/show/fyclass-----2-fypage.html',
     url: '/show/fyclass-fyfilter-fypage.html',
     filter_url: '{{fl.类型}}-{{fl.地区}}-{{fl.语言}}-{{fl.年份}}-{{fl.排序}}',
