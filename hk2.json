@@ -27,7 +27,7 @@
 {"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":1,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"https://boyss180.github.io/fm/fm_cs.jar"},
 {"key":"低端","name":"低 端","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"changeable":1},
 //{"key":"TS-欧乐","name":"720(即將失效)","type":4,"api":"https://tang.hz.cz/power/olelive?token=bec078e6","searchable":1,"changeable":1},
-{"key":"TS-安博","name":"安安 (失效)","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
+//{"key":"TS-安博","name":"安安 (失效)","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
 {"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/小宝-edit.js"},
 //{"key":"看球","name":"看球 (按點播)","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type": "list"}},
 //{"key":"dr_JRKAN直播","name":"DJ看球 (測試)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/JRKAN直播.js"},
