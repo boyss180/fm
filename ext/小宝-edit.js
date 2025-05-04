@@ -3,7 +3,7 @@ muban.首图.二级.desc = '#score&&Text;;;.data--span:eq(2)&&Text;.data--span:e
 var rule={
 	title:'小宝-edit',
 	模板:'首图',
-	host:'https://xiaoxintv.com',
+	host:'https://www.xiaobaotv.com',
 	url:'/index.php/vod/show/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}/page/fypage{{fl.year}}',
