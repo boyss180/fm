@@ -20,7 +20,7 @@
 {"key":"T4-heimuer","name":"木耳-TS","type":4,"api":"https://tang.hz.cz/power/hme?token=bdef82df","searchable":1,"changeable":1},
 //{"key":"TS-hm","name":"木耳專線","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","playUrl":"json:https://4tvbox.ggff.net/hme.php?url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"},"searchable":1,"changeable":1,"categories":["国产剧","港剧","欧美剧","台剧","韩剧","日剧","泰剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","日本动漫","国产动漫","欧美动漫","动画电影","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","同性片","经典片"]},
 {"key":"hmys1","name":"自木耳","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"changeable":1},
-{"key":"黑木影视","name":"自木(Test)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","playUrl":"json:https://tvbox.linkpc.net/api/kill_ads?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"黑木影视","name":"自木(Test)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","playUrl":"json:https://tvbox.linkpc.net/api/kill_ads?url=","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key": "TS-獨播庫","name": "獨播庫-TS","type": 4,"api": "https://tang.hz.cz/power/duboku?token=1076e3c8","searchable":1,"changeable":1},
 {"key":"dr_欧乐original-720p","name":"720 (Test)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
 {"key":"TS-欧乐","name":"720-TS","type":4,"api":"https://tang.hz.cz/power/olelive?token=bdef82df","searchable":1,"changeable":1},
