@@ -23,7 +23,7 @@
 {"key":"黑木影视","name":"自木(new)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"header":{"User-Agent":"Lavf/58.12.100"}},
 {"key":"hmys1","name":"自木(Old)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"changeable":0},
 {"key": "TS-獨播庫","name": "獨播庫-TS","type": 4,"api": "https://tang.hz.cz/power/duboku?token=1076e3c8","searchable":1,"changeable":1},
-{"key":"dr_欧乐original-720p","name":"欧乐edTest","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original_edit.js"},
+{"key":"dr_欧乐original-720p","name":"乐edTest","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original_edit.js"},
 {"key":"TS-欧乐","name":"720-TS","type":4,"api":"https://tang.hz.cz/power/olelive?token=bdef82df","searchable":1,"changeable":1},
 //{"key":"dr_网飞猫","name":"網 飛","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/网飞猫.js"},
 //{"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
