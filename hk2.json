@@ -7,6 +7,7 @@
 //{"name":"👉斯瑪特PY👈","type":3,"api":"https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py","ext":{}},
 //{"name":"👉央視👈","url":"https://iptv.catvod.com/tv.m3u"},
 //{"name":"👉ITV👈","type":0,"url":"https://7220.kstore.space/x8.txt","epg":"http://epg.51zmt.top:8000/e.xml","timeout":"3","playerType":2,"ua":"AptvPlayer/1.4.0,okhttp/3.15"},
+{"name":"👉CN👈","url":"https://nptv.freetv.top/juhe.m3u"},
 {"name":"👉CCTV3👈","url":"./ext/CCTV3.txt"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
