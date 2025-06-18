@@ -10,7 +10,7 @@
 {"name":"斯瑪特PY","type":3,"api":"https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py","ext":{}},
 {"name":"ITV","type":0,"url":"https://7220.kstore.space/x8.txt","epg":"http://epg.51zmt.top:8000/e.xml","timeout":"3","playerType":2,"ua":"AptvPlayer/1.4.0,okhttp/3.15"},
 {"name":"肥羊","url":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/refs/heads/main/ext/fatY_live.txt","playerType":1},
-{"name":"CNTest","url":"https://nptv.freetv.top/juhe.m3u"},
+{"name":"CNTest","url":"https://www.freetv.top/mgevent.m3u"},
 {"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","timeout":10},
 {"name":"V4聚合-左右换线","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1}],
 "sites":[ 
