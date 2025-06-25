@@ -31,7 +31,7 @@
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/小宝-edit.js"},
 //{"key":"直播转点播","name":"直播 (按點播)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"1,3"},
 //{"key":"926","name":"⚽926 (按點播)","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://boyss180.github.io/fm/20240419_bili.jar"}
+{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://boyss180.github.io/fm/20240419_bili.jar"}
 ],
 //解X设置
 "doh":[
