@@ -15,7 +15,7 @@
 {"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":1,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"https://boyss180.github.io/fm/fm_cs.jar"},
 {"key":"白白","name":"白 白","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"嗷呜金牌影院","name":"嗷呜文才","type":3,"api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_jinpai.py","searchable":1,"filterable":0,"changeable":1},
 {"key":"嗷呜小苹果","name":"蘋果py","type":3,"api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_pingguo.py","searchable":1,"filterable":0,"changeable":1},
 {"key":"嗷呜剧爸爸","name":"劇爸爸py","type":3,"api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_jubaba.py","searchable":1,"filterable":0,"changeable":1},
