@@ -21,7 +21,7 @@
 {"key":"黑木影视","name":"自木耳","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","playUrl":"json:https://heimuer.ggff.net/noads.php?url=","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"header":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/欧乐original.js"},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"changeable":0},
-{"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=1076e3c8","searchable":1,"changeable":0},
+{"key":"TS-獨播庫","name":"獨播庫(失效)","type":4,"api":"https://tang.hz.cz/power/duboku?token=1076e3c8","searchable":1,"changeable":0},
 //{"key":"huarenoktv","name":"華人(失效)","type":1,"api":"https://huaren.live/api.php/tvbox","playUrl":"json:https://parse.okhuaren.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"header":{"User-Agent":"Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/131.0.0.0Safari/537.36","Referer":"test"}},
 {"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"https://boyss180.github.io/fm/fm_cs.jar"},
 {"key":"低端","name":"低 端","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"changeable":0},
@@ -29,7 +29,7 @@
 //{"key":"TS-欧乐","name":"720(即將失效)","type":4,"api":"https://tang.hz.cz/power/olelive?token=bec078e6","searchable":1,"changeable":1},
 //{"key":"TS-安博","name":"安安 (失效)","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/小宝-edit.js"},
-{"key":"直播转点播","name":"直播 (按點播)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"3"},
+{"key":"直播转点播","name":"直播 (按點播)(失效)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"3"},
 //{"key":"926","name":"⚽926 (按點播)","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://boyss180.github.io/fm/20240419_bili.jar"}
 ],
