@@ -17,7 +17,7 @@
 //{"key":"T4-heimuer","name":"木 耳","type":4,"api":"https://tang.hz.cz/power/hme?token=bec078e6","searchable":1,"changeable":1},
 //{"key":"TS-hm","name":"專線(失效)","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","playUrl":"json:https://4tvbox.ggff.net/hme.php?url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"},"searchable":1,"changeable":1,"categories":["国产剧","港剧","欧美剧","台剧","韩剧","日剧","泰剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","日本动漫","国产动漫","欧美动漫","动画电影","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","同性片","经典片"]},
 //{"key":"白白","name":"白 白","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"黑木影视","name":"自木耳(失效)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","playUrl":"json:https://heimuer.ggff.net/noads.php?url=","searchable":0,"quickSearch":1,"filterable":0,"changeable":1,"header":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
+//{"key":"黑木影视","name":"自木耳(失效)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","playUrl":"json:https://heimuer.ggff.net/noads.php?url=","searchable":0,"quickSearch":1,"filterable":0,"changeable":1,"header":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/欧乐original.js"},
 {"key":"嗷呜剧爸爸","name":"劇爸爸","type":3,"api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py/py_jubaba.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"changeable":1},
@@ -39,6 +39,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
