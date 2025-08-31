@@ -28,6 +28,7 @@
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"嗷呜金牌影院","name":"嗷文才","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"文采","name":"文才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+{"key":"嗷呜爱瓜TV","name":"愛瓜TV","type":4,"api":"https://tvbot.ggff.net/aigua"},
 //{"key":"OK厂长","name":"廠長Test","type":3,"api":"csp_CzzyGuard","searchable":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/2GZ4fzur.png;md5;df521baa498b5a193ca5e883680f333e"},
 //{"key":"贱贱fan","name":"荐片","type":3,"searchable":1,"changeable":0,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
 //{"key":"drpy_荐片2","name":"荐片slow","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/lib_cn/drpy2.min.js","searchable":1,"changeable":0,"ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/boyss180/fm/main/ext/荐片_ed.js"},
