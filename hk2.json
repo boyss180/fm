@@ -2,13 +2,13 @@
 "lives":[
 //{"name":"👉香港👈(失效)","url":"http://aktv.space/live.m3u"},
 {"name":"👉HK👈","url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u","ua":"judy/5.2.1"},
-{"name":"👉CN👈","type":0,"url":"https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u","timeout":10,"header":{"User-Agent":"okHttp/Mod-1.2.0"}},
+//{"name":"👉CN👈","type":0,"url":"https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u","timeout":10,"header":{"User-Agent":"okHttp/Mod-1.2.0"}},
 //{"name":"👉直播👈","type":0,"url":"https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","timeout":10},
 {"name":"👉TEST👈","url":"./ext/CCTV3.txt"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
-{"key":"天堂影视","name":"電影堂","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"天堂影视","name":"電影堂(失效)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"嗷呜剧爸爸","name":"劇爸爸(失效)","type":3,"api":"./ext/py_jubaba.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/欧乐original.js"},
@@ -28,6 +28,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
