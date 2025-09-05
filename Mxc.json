@@ -19,7 +19,7 @@
 {"key":"豆瓣indexs","name":"豆瓣  🔍 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
 //{"key":"黑木影视","name":"自木耳","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","playUrl":"json:https://tvbot.dpdns.org/noads.php?url=","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"header":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
-{"key":"天堂影视","name":"電影堂","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"天堂影视","name":"電影堂","type":4,"api":"https://tvbot.ggff.net/dytt","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"嗷呜剧爸爸","name":"劇爸爸","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/py_jubaba.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"贱贱Fan","name":"荐片","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"荐片Fat","name":"荐片","api":"csp_Jianpian","type":3,"playerType":2,"searchable":1,"changeable":0,"ext":"http://api2.rinhome.com","jar":"https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"},
