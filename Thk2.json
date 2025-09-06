@@ -6,6 +6,7 @@
 {"name":"斯瑪特PY","type":3,"api":"https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py","ext":{}},
 {"name":"肥羊","url":"./ext/fatY_live.txt"},
 {"name":"ITVTest","type":0,"url":"https://7220.kstore.space/x8.txt","epg":"http://epg.51zmt.top:8000/e.xml","timeout":"3","playerType":2,"ua":"AptvPlayer/1.4.0,okhttp/3.15"},
+{"name":"Mix","type":0,"url":"https://vercel-php-vert.vercel.app/api/dongfang"},
 {"name":"華人(失效)","url":"http://umostfear.serv00.net/api/huaren","ua":"okhttp/4.12.0","referer":"https://huaren.live/"}],
 "sites":[
 //{"key":"泥巴","name":"泥 巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
