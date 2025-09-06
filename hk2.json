@@ -2,7 +2,7 @@
 "lives":[
 //{"name":"👉香港👈(失效)","url":"http://aktv.space/live.m3u"},
 {"name":"👉HK👈","url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u","ua":"judy/5.2.1"},
-{"name":"👉Mix👈","type":0,"url":"https://vercel-php-vert.vercel.app/api/dongfang"},
+//{"name":"👉Mix👈","type":0,"url":"https://vercel-php-vert.vercel.app/api/dongfang"},
 //{"name":"👉CN👈","type":0,"url":"https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u","timeout":10,"header":{"User-Agent":"okHttp/Mod-1.2.0"}},
 //{"name":"👉直播👈","type":0,"url":"https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","timeout":10},
 {"name":"👉TEST👈","url":"./ext/CCTV3.txt"}],
@@ -29,6 +29,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
