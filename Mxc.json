@@ -68,7 +68,7 @@
 //{"key":"926","name":"⚽926 (按點播)","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"Biliych","name":"演唱會 (新歌單)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
-{"key":"Biliych","name":"演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/20240419_biliych.json","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
+{"key":"Biliyc","name":"演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/20240419_biliych.json","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
 ], 
 //解X设置
 "doh":[
