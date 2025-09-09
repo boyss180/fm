@@ -1,4 +1,4 @@
-{"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://boyss180.github.io/fm/cc_20240419.jar",
+{"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jar",
 "lives":[
 //{"name":"👉香港👈(失效)","url":"http://aktv.space/live.m3u"},
 {"name":"👉HK👈","url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u","ua":"judy/5.2.1"},
@@ -21,7 +21,9 @@
 //{"key":"TS-安博","name":"安安 (失效)","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/小宝-edit.js"},
 //{"key":"直播转点播","name":"直播 (按點播)(失效)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"3"},
-{"key":"csp_Biliych","name":"🎸演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"./20240419_bili.jar"}
+//{"key":"Biliych","name":"演唱會 (新歌單)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
+{"key":"csp_Biliych","name":"演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"./20240419_bili.jar"}
 ],
 //解X设置
 "doh":[
@@ -29,6 +31,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
