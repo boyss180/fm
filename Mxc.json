@@ -66,9 +66,9 @@
 {"key":"xzso","name":"盘它🔍","type":3,"api":"csp_XzsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{"key":"ok动漫巴士","name":"動漫巴士Test","type":3,"api":"csp_Dm84Guard","searchable":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/2GZ4fzur.png;md5;df521baa498b5a193ca5e883680f333e"},
 //{"key":"926","name":"⚽926 (按點播)","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"Biliych","name":"BiliBili","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
+{"key":"Biliych","name":"演唱會 (新歌單)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
-{"key":"Biliych","name":"演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
+{"key":"Biliych","name":"演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/20240419_biliych.json","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
 ], 
 //解X设置
 "doh":[
