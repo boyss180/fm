@@ -64,7 +64,7 @@
 //{"key":"Wexliyuan","name":"戲曲T3","type":3,"api":"csp_WexliyuanGuard","jar":"https://boyss180.github.io/fm/cowboy.jar","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2}},
 //{"key":"戏曲","name":"戲曲T","type":3,"api":"csp_WexliyuanGuard","jar":"https://raw.githubusercontent.com/cyalias/mytvs-github/387dcc33d090319ec8ef3b70f475a8a0fe0ae070/tvboxqq/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2}},
 //{"key":"Biliych","name":"演唱會newjar","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},
-{"key":"Biliych","name":"演唱會 (新歌單)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
+//{"key":"Biliych","name":"演唱會 (新歌單)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
 {"key":"csp_Biliych","name":"演唱會hk2","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
  ],
