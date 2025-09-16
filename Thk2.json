@@ -64,7 +64,8 @@
 //{"key":"直播转点播","name":"直播 (按點播N)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"1,3,4"},
 //{"key":"926","name":"⚽926⚽","type":3,"api":"csp_kanqiu926Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
 //{"key":"Biliych","name":"演唱會newjar","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},
-{"key":"Wexliyuan","name":"戲曲T","type":3,"api":"csp_WexliyuanGuard","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar":"./wex_abc.png"},
+{"key":"Wexliyuan","name":"戲曲T2","type":3,"api":"csp_WexliyuanGuard","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/5524FCD_773_wex_20250914224930935newMediaImage.png"},
+//{"key":"Wexliyuan","name":"戲曲T","type":3,"api":"csp_WexliyuanGuard","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar":"./wex_abc.png"},
 {"key":"Biliych","name":"演唱會 (新歌單)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
 {"key":"csp_Biliych","name":"演唱會hk2","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
