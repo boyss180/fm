@@ -23,7 +23,7 @@
 //{"key":"嗷呜剧爸爸","name":"劇爸爸py","type":3,"api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py/py_jubaba.py","searchable":1,"filterable":0,"changeable":1},
 //{"key":"Qile优视频","name":"優視頻T3","type":3,"searchable":1,"changeable":1,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"https://boyss180.github.io/fm/fm_cs.jar"},
 {"key":"Qile优视频","name":"優視頻T4","type":4,"api":"https://tvbot.ggff.net/uvod","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"嗷呜剧爸爸","name":"劇爸Test","type":3,"api":"./ext/py_jubaba.py","searchable":1,"filterable":0,"changeable":0},
+{"key":"嗷呜剧爸爸","name":"劇爸爸T4","type":4,"api":"https://tvbot.ggff.net/jubaba","searchable":1,"filterable":0,"changeable":0},
 {"key":"嗷呜爱瓜","name":"愛瓜T4","type":4,"api":"https://tvbot.ggff.net/aigua","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"霜辉瓜子","name":"瓜子T4","type":4,"api":"https://tvbot.ggff.net/guazi","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"Qile优视频","name":"優視Test","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs.jar"},
