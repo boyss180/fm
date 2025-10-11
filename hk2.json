@@ -11,6 +11,7 @@
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"天堂影视","name":"電影堂(失效)","type":4,"api":"https://tvbot.ggff.net/dytt","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"月佬瓜子影视","name":"瓜 子","type":4,"api":"https://tvbot.ggff.net/guazi","searchable":1,"filterable":0,"changeable":0},
 {"key":"嗷呜剧爸爸","name":"劇爸爸","type":4,"api":"https://tvbot.ggff.net/jubaba","searchable":1,"filterable":0,"changeable":0},
 //{"key":"欧乐影院", "name":"歐樂not", "type":4, "api":"https://tvbot.ggff.net/oule","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/欧乐original.js"},
@@ -29,6 +30,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
