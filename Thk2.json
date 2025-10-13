@@ -36,7 +36,7 @@
 //{"key":"hmys1","name":"自木(OldOld)","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"changeable":0},
 //{"key": "TS-獨播庫","name": "獨播庫-TS","type": 4,"api": "https://tang.hz.cz/power/duboku?token=1076e3c8","searchable":1,"changeable":1},
 {"key":"dr_欧乐original-720p","name":"欧乐original","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
-{"key":"瓜子_abc","name":"瓜子Test","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/瓜子_abc.js"},
+{"key":"ok瓜子","name":"ok瓜子Test","type": 3,"api":"csp_GuaziGuard","searchable":1,"filterable":0,"changeable":1,"jar":"./okjar.jar"},
 {"key":"嗷剧爸爸","name":"劇爸Test","type":3,"api":"./ext/py_jubaba_abc.py","searchable":1,"filterable":0,"changeable":1},
 //{"key":"TS-欧乐","name":"720-TS","type":4,"api":"https://tang.hz.cz/power/olelive?token=https://tang.hz.cz/api/user?token=1076e3c8","searchable":1,"changeable":1},
 //{"key":"dr_网飞猫","name":"網 飛","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/网飞猫.js"},
