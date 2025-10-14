@@ -10,18 +10,17 @@
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"热播","name":"熱播(測試)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
-{"key":"天堂影视","name":"電影堂","type":4,"api":"https://py.doube.eu.org/spider?site=DianYingTanTang","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
-{"key":"愛瓜TV","name":"線路三(測試)","type":3,"api":"./ext/py_aigua_abc.py","searchable":1,"filterable":1,"changeable":0},
-{"key":"嗷剧爸爸","name":"劇爸爸(測試)","type":3,"api":"./ext/py_jubaba_abc.py","searchable":1,"filterable":1,"changeable":0},
-//{"key":"ok瓜子","name":"瓜子(測試)","type":3,"api":"csp_GuaziGuard","searchable":1,"filterable":1,"changeable":0,"jar":"./okjar.jar"},
+{"key":"热播","name":"熱播 [測試]","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"天堂影视","name":"電影堂 [測試]","type":4,"api":"https://py.doube.eu.org/spider?site=DianYingTanTang","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"愛瓜TV","name":"線路三 [測試]","type":3,"api":"./ext/T_aigua.py","searchable":1,"filterable":1,"changeable":0},
+{"key":"嗷剧爸爸","name":"劇爸爸 [測試]","type":3,"api":"./ext/T_jubaba.py","searchable":1,"filterable":1,"changeable":0},
+//{"key":"ok瓜子","name":"瓜子 [測試]","type":3,"api":"csp_GuaziGuard","searchable":1,"filterable":1,"changeable":0,"jar":"./okjar.jar"},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/欧乐original.js"},
 {"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs.jar"},
 {"key":"低端","name":"低 端","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"changeable":0},
 {"key":"Dm84","name":"動漫巴士","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"TS-安博","name":"安安 (失效)","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/小宝-edit.js"},
-//{"key":"直播转点播","name":"直播 (按點播)(失效)","type":4,"api":"https://zhangqun66.com/zh/2241-2.php","searchable":0,"changeable":0,"ext":"3"},
 {"key":"Biliych","name":"演唱會 (新歌單)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597}, "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
 {"key":"csp_Biliych","name":"演唱會","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
 ],
@@ -31,6 +30,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
