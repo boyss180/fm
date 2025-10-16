@@ -1,4 +1,4 @@
-{"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jar",
+{"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jpg",
 "lives":[
 //{"name":"👉香港👈(失效)","url":"http://aktv.space/live.m3u"},
 //{"name":"👉HK👈","url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u","ua":"judy/5.2.1"},
@@ -12,8 +12,8 @@
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"热播","name":"熱播(即將刪除)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"天堂影视","name":"電影堂","type":4,"api":"https://py.doube.eu.org/spider?site=DianYingTanTang","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"愛瓜TV","name":"線路三 (測試)","type":3,"api":"./ext/T_aigua.py","searchable":1,"filterable":1,"changeable":0},
-{"key":"嗷剧爸爸","name":"劇爸爸 (測試)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"filterable":1,"changeable":0},
+{"key":"愛瓜TV","name":"線路三","type":3,"api":"./ext/T_aigua.py","searchable":1,"filterable":1,"changeable":0},
+{"key":"嗷剧爸爸","name":"劇爸爸","type":3,"api":"./ext/T_jubaba.py","searchable":1,"filterable":1,"changeable":0},
 //{"key":"ok瓜子","name":"瓜子 (測試)","type":3,"api":"csp_GuaziGuard","searchable":1,"filterable":1,"changeable":0,"jar":"./okjar.png"},
 {"key":"dr_欧乐original-720p","name":"歐 樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/欧乐original.js"},
 {"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs.jar"},
@@ -30,6 +30,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
