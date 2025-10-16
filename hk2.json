@@ -10,7 +10,7 @@
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"热播","name":"熱播(即將刪除)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":0,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"热播","name":"熱播(即將刪除)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"天堂影视","name":"電影堂 (測試)","type":4,"api":"https://py.doube.eu.org/spider?site=DianYingTanTang","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"愛瓜TV","name":"線路三 (測試)","type":3,"api":"./ext/T_aigua.py","searchable":1,"filterable":1,"changeable":0},
 {"key":"嗷剧爸爸","name":"劇爸爸 (測試)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"filterable":1,"changeable":0},
@@ -30,6 +30,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
