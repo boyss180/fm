@@ -35,7 +35,7 @@
 //{"key":"dr_网飞猫","name":"網 飛","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/网飞猫.js"},
 //{"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
 {"key":"dr_小宝-edit","name":"小 寶","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/小宝-edit.js"},
-{"key":"dr_瓜子new","name":"瓜子newJS","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/瓜子new.js"},
+//{"key":"dr_瓜子new","name":"瓜子newJSnot","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./ext/瓜子new.js"},
 //{"key":"TS-安博","name":"安 安","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":1,"changeable":0},
 //{"key":"TS-安博ed","name":"安博ed","type":4,"api":"https://tang.hz.cz/power/ub18?token=bdef82df","searchable":0,"changeable":0},
 //{"key":"php_huaweiba","name":"華為-MS","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"changeable":1},
