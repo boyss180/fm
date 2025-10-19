@@ -23,7 +23,7 @@
 //{"key":"热播","name":"熱播 (測試)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 //{"key":"Qile优视频","name":"T4優視頻","type":4,"api":"https://newtv.ggff.net/uvod","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"嗷呜剧爸爸","name":"T4劇爸爸","type":4,"api":"https://newtv.ggff.net/jubaba","searchable":1,"filterable":0,"changeable":0},
-//{"key":"嗷呜爱瓜","name":"T4愛瓜","type":4,"api":"https://newtv.ggff.net/aigua","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"嗷呜爱瓜","name":"T4愛瓜 (測試)","type":4,"api":"https://newtv.ggff.net/aigua?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"霜辉瓜子","name":"T4瓜子 (測試)","type":4,"api":"https://newtv.ggff.net/guazi?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"愛瓜TV","name":"線路三MS (測試)","type":3,"api":"./ext/爱瓜MS.py","searchable":1,"filterable":1,"changeable":0},
 {"key":"嗷剧爸爸","name":"劇爸爸 (測試)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"filterable":1,"changeable":0},
