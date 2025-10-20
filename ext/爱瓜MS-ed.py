@@ -512,9 +512,6 @@ class Spider(Spider):
             play_url_list = res.json()['data']['urlinfo']['resource_url']
             if flag == '普通':
                 play_url = play_url_list['1']
-                pass
-            elif flag == '不能看':
-                play_url = play_url_list['16']
             else:
                 play_url = play_url_list['21']
             return {'url': play_url, 'parse': 0, 'jx': 0, 'header': self.headers}
@@ -534,6 +531,7 @@ class Spider(Spider):
 
 if __name__ == '__main__':
     pass
+
 
 
 
