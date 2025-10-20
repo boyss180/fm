@@ -516,7 +516,7 @@ class Spider(Spider):
             elif flag == '线路二':
                 play_url = play_url_list['16']
             else:
-                play_url = play_url_list['16']
+                play_url = play_url_list['21']
             return {'url': play_url, 'parse': 0, 'jx': 0, 'header': self.headers}
         except Exception as e:
             print(f"Error in playerContent: {e}")
@@ -534,6 +534,7 @@ class Spider(Spider):
 
 if __name__ == '__main__':
     pass
+
 
 
 
