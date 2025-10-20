@@ -421,7 +421,7 @@ class Spider(Spider):
             res = requests.get(url, headers=self.headers)
             root = etree.HTML(res.text.encode('utf-8'))
             # vod_play_from_list = root.xpath('//span[@class="source-item-label"]/text()')
-            vod_play_from = '$$$'.join(['线路一', '线路三'])
+            vod_play_from = '$$$'.join(['线路一', '不能看', '线路三'])
             # 电视剧
             play_list1 = root.xpath('//ul[contains(@class, "qy-episode-num")]')
             # print(play_list1)
@@ -514,9 +514,9 @@ class Spider(Spider):
                 play_url = play_url_list['1']
                 pass
             elif flag == '线路二':
-                play_url = play_url_list['21']
+                play_url = play_url_list['16']
             else:
-                play_url = play_url_list['21']
+                play_url = play_url_list['16']
             return {'url': play_url, 'parse': 0, 'jx': 0, 'header': self.headers}
         except Exception as e:
             print(f"Error in playerContent: {e}")
@@ -534,6 +534,7 @@ class Spider(Spider):
 
 if __name__ == '__main__':
     pass
+
 
 
 
