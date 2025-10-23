@@ -28,7 +28,7 @@
 {"key":"愛瓜TV","name":"線路三MS (測試)","type":3,"api":"./ext/爱瓜MS-ed.py","searchable":1,"filterable":1,"changeable":0},
 {"key":"嗷剧爸爸","name":"劇爸爸 (測試)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"filterable":1,"changeable":0},
 {"key":"ok瓜子","name":"OK瓜子 (測試)","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":0,"jar":"./okjar.png"},
-{"key":"厂长弹幕版","name":"OK廠長 (測試)","type":3,"api":"csp_CzzyGuard","searchable":1,"filterable":0,"quickSearch":1,"changeable":0,"jar":"./okjar.png"},
+{"key":"厂长弹幕版","name":"OK廠長 (測試)","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"jar":"./okjar.png"},
 {"key":"Qile优视频","name":"優視頻","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs.jar"},
 {"key":"dr_欧乐original-720p","name":"欧乐original","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
 {"key":"低端","name":"低端 (冇縮圖)","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
