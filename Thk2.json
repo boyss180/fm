@@ -25,7 +25,7 @@
 //{"key":"嗷呜剧爸爸","name":"T4劇爸爸","type":4,"api":"https://newtv.ggff.net/jubaba","searchable":1,"filterable":0,"changeable":0},
 {"key":"嗷呜爱瓜","name":"T4愛瓜 (測試)","type":4,"api":"https://newtv.ggff.net/aigua?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"霜辉瓜子","name":"T4瓜子 (測試)","type":4,"api":"https://newtv.ggff.net/guazi?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"愛瓜TV","name":"愛瓜Test (測試)","type":3,"api":"./ext/爱瓜test.py","searchable":1,"filterable":1,"changeable":0},
+{"key":"愛瓜TV","name":"愛一瓜Test (測試)","type":3,"api":"./ext/爱壹帆.py","searchable":1,"filterable":1,"changeable":0},
 {"key":"嗷剧爸爸","name":"劇爸爸 (測試)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"filterable":1,"changeable":0},
 //{"key":"厂长资源","name":"廠長not (測試)","type":4,"api":"./ext/厂长资源.py","searchable":1,"filterable":1,"changeable":0},
 {"key":"ok瓜子","name":"OK瓜子 (測試)","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":0,"jar":"./okjar.png"},
