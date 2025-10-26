@@ -65,9 +65,9 @@
 //{"key":"Wexliyuan","name":"戲曲not","type":3,"api":"csp_WexliyuanGuard","jar":"./wex_abc.png","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2}},
 //{"key":"Wexliyuan","name":"戲曲abcnot","type":3,"api":"csp_WexliyuanGuard","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/5524FCD_773_wex_20250914224930935newMediaImage.png"},
 //{"key":"Wexliyuan","name":"戲曲not","type":3,"api":"csp_WexliyuanGuard","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar":"./wex_abc.png"},
-{"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"}},
-{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"}},
-{"key":"csp_Biliych","name":"演唱會┃720P","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
+{"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"}},
+{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"}},
+{"key":"csp_Biliych","name":"演唱會┃720P","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
  ],
 //解X设置
 "doh":[
