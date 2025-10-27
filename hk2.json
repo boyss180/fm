@@ -19,7 +19,7 @@
 {"key":"低端","name":"低 端","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"Dm84","name":"動漫巴士","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./ext/小宝-edit.js"},
-{"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"}},
+{"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"}},
 {"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"}},
 {"key":"csp_Biliych","name":"演唱會┃720P","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
 ],
@@ -29,6 +29,7 @@
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]}
+
 
 
 
