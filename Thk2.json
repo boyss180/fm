@@ -24,7 +24,7 @@
 //{"key":"热播","name":"熱播 (測試)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 //{"key":"Qile优视频","name":"T4優視頻","type":4,"api":"https://newtv.ggff.net/uvod","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"嗷呜剧爸爸","name":"T4劇爸爸","type":4,"api":"https://newtv.ggff.net/jubaba","searchable":1,"filterable":0,"changeable":0},
-{"key":"永乐影视","name":"永乐(Test2XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./ext/YLYS.json","jar":"./XBPQ.jar"},
+{"key":"永乐影视","name":"永乐2(TestXBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./ext/YLYS.json","jar":"./XBPQ2.jar"},
 //{"key":"永乐视频","name":"T4永樂 (測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=永乐视频","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"嗷呜爱瓜","name":"T4愛瓜 (測試)","type":4,"api":"https://newtv.ggff.net/aigua?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"霜辉瓜子","name":"T4瓜子 (測試)","type":4,"api":"https://newtv.ggff.net/guazi?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
