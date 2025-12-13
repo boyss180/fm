@@ -8,7 +8,7 @@
 {"name":"👉TEST👈","url":"./ext/CCTV3.txt"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
-{"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"苹果","name":"蘋果(失效)","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"T4爱瓜","name":"冬 瓜","type":4,"api":"https://newtv.ggff.net/aigua?token=dt7oO7x4","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"t1_dian_ying_tian_tang_02","name":"電影堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:https://py.doube.eu.org/parse_dytt?url=","categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "伦理片", "短剧", "动画片"]},
@@ -28,6 +28,7 @@
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]
 }
+
 
 
 
