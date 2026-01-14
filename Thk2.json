@@ -22,6 +22,7 @@
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"py_界影视","name":"界影視(測試)","type":3,"api":"./ext/界影视MS.py","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"甜圈短剧","name":"短劇(測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=甜圈短剧","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Dm84","name":"動漫巴士(測試)","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"t1_dian_ying_tian_tang_02","name":"電影堂(New)","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:https://py.doube.eu.org/parse_dytt?url=","categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "伦理片", "短剧", "动画片"]},
 //{"key":"天堂影视","name":"電影堂 (測試)","type":4,"api":"https://py.doube.eu.org/spider?site=DianYingTanTang","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"热播","name":"熱播 (測試)","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
