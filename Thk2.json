@@ -34,7 +34,7 @@
 //{"key": "py_xiong_di_ying_shi","name": "T3兄弟影視","type": 3,"api": "./ext/兄弟影视.min.py","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"永乐影视","name":"永乐4(TestXBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./ext/YLYS.json","jar":"./YLYS.txt"},
 {"name":"O瓜子2","key":"Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"./ext/oguazi.json"},"jar":"./omjar.png"},
-{"name":"O瓜子(測試)","key":"Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"./ext/oguazi.json","jar":"./omjar.png"}},
+//{"name":"O瓜子(not)","key":"Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"./ext/oguazi.json","jar":"./omjar.png"}},
 {"key":"永乐视频","name":"T4永樂 (測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=永乐视频","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"嗷呜爱瓜","name":"T4愛瓜 (測試)","type":4,"api":"https://newtv.ggff.net/aigua?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"霜辉瓜子","name":"T4瓜子 (測試)","type":4,"api":"https://newtv.ggff.net/guazi?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
