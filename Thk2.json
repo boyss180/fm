@@ -44,6 +44,7 @@
 {"key":"霜辉瓜子","name":"T4瓜子 (測試)","type":4,"api":"https://newtv.ggff.net/guazi?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"愛瓜TV","name":"愛瓜Test (測試)","type":3,"api":"./ext/爱瓜MS-ed.py","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"嗷剧爸爸","name":"劇爸爸 (測試)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"libvio_4k","name":"Libvio┃藍光4K","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw","jar":"https://mirror.ghproxy.com"},
 {"key":"ok瓜子","name":"OK瓜子 (測試)","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":0,"jar":"./okjar.png"},
 {"key":"厂长弹幕版","name":"OK廠長 (測試)","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"jar":"./okjar.png"},
 {"key":"Qile优视频","name":"優視頻newjar","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs2.jar"},
