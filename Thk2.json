@@ -21,7 +21,7 @@
 {"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"py_界影视","name":"界影視(測試)","type":3,"api":"./ext/界影视MS.py","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"甜圈短剧","name":"短劇(測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=甜圈短剧","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"甜圈短剧","name":"短劇3","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=甜圈短剧","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"剧圈","name":"劇圈(測試)","type":3,"api":"csp_AppSxGuard","searchable":0,"quickSearch":0,"changeable":0,"ext":"rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="},
 {"key":"Dm84","name":"動漫巴士(測試)","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"糯米","name":"糯米(測試)","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":0},
