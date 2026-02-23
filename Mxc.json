@@ -16,7 +16,7 @@
 {"name":"直播","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","timeout":10},
 //{"name":"V4-mursor","type":0,"url":"https://sub.ottiptv.cc/iptv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://11.112114.xyz/logo/{name}.png"},
 {"name":"冰茶","type":0,"url":"https://fy.188766.xyz/?ip=&mishitong=true&json=true","ua":"bingcha/1.1"},
-{"name":"Gather","url":"https://tv.iill.top/m3u/Gather"},
+{"name":"Gather","url":"https://ghproxy.net/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
 {"name":"Test","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1}],
 "sites":[ 
 {"key":"豆瓣indexs","name":"豆瓣  🔍 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
