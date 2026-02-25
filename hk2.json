@@ -1,6 +1,5 @@
 {
 "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jpg",
-"logo":"./cuteboy.gif",
 "lives":[
 //{"name":"👉香港👈(失效)","url":"http://aktv.space/live.m3u"},
 {"name":"👉冰茶👈","type":0,"url":"https://fy.188766.xyz/?ip=&mishitong=true&json=true","ua":"bingcha/1.1"},
@@ -33,6 +32,7 @@
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
 ]
 }
+
 
 
 
