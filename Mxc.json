@@ -27,6 +27,7 @@
 {"key":"Guazi","name":"瓜子","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/oguazi.json"},"jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"py_界影视","name":"界影視","type":3,"api":"https://gcore.jsdelivr.net/gh/doube-ba/TVlogo/py/界影视.py","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"嗷呜剧爸爸","name":"劇爸爸","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/T_jubaba.py","searchable":1,"filterable":0,"changeable":0},
+{"key":"独播库","name":"獨播庫","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=独播库","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"荐片Fat","name":"荐片","api":"csp_Jianpian","type":3,"playerType":2,"searchable":1,"changeable":0,"ext":"http://api2.rinhome.com","jar":"https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"},
 //{"key":"嗷呜小苹果","name":"嗷苹果","type":3,"api":"https://tvbot.dpdns.org/py_pingguo.py","searchable":1,"filterable":0,"changeable":0},
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":0},
