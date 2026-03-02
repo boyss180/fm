@@ -40,7 +40,7 @@
 {"key":"Aiyf","name":"壹帆牆","type":3,"api":"csp_AiyfAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"永乐视频","name":"永樂-T","type":3,"api":"./ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"独播库","name":"獨播庫-T","type":3,"api":"./ext/独播库n.js","searchable":1,"quickSearch":1,"changeable":0,"jar":"./zhang.jar"},
-{"key":"永乐","name":"T4永樂 (測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=永乐视频","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"永乐视频","name":"T4永樂 (測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=永乐视频","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"嗷呜爱瓜","name":"T4愛瓜 (測試)","type":4,"api":"https://newtv.ggff.net/aigua?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"霜辉瓜子","name":"T4瓜子 (測試)","type":4,"api":"https://newtv.ggff.net/guazi?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"愛瓜TV","name":"愛瓜Test (測試)","type":3,"api":"./ext/爱瓜MS-ed.py","searchable":1,"quickSearch":1,"changeable":0},
