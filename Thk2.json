@@ -43,7 +43,7 @@
 {"key":"永乐","name":"T4永樂 (測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=永乐视频","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"嗷呜爱瓜","name":"T4愛瓜 (測試)","type":4,"api":"https://newtv.ggff.net/aigua?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"霜辉瓜子","name":"T4瓜子 (測試)","type":4,"api":"https://newtv.ggff.net/guazi?token=NtKuzkIw","searchable":1,"quickSearch":1,"changeable":0},
-//{"key":"愛瓜TV","name":"愛瓜Test (測試)","type":3,"api":"./ext/爱瓜MS-ed.py","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"愛瓜TV","name":"愛瓜Test (測試)","type":3,"api":"./ext/爱瓜MS-ed.py","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"嗷剧爸爸","name":"劇爸爸 (測試)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"Qile优视频","name":"優視頻newjar","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs2.jar"},
 {"key":"dr_欧乐original-720p","name":"欧乐original","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./ext/欧乐original.js"},
