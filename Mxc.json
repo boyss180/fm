@@ -53,6 +53,7 @@
 {"key":"Wgdj","name":"短劇1","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"TQdj","name":"短劇2","type":3,"api":"csp_TQdjAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"Bddj","name":"拜拜(短劇)","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
+{"key":"喵喵短剧","name":"喵喵劇","type":3,"api":"csp_QmdjAmns","searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 //{"key":"聚合短剧","name":"兩短劇Test","type":3,"api":"./ext/聚合短剧.js","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"DjHggg","name":"嗷嗚劇","type":3,"api":"csp_HgggAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"short_play","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 //{"key":"旺旺短剧","name":"短劇2(點播)","type":1,"api":"http://zhangqun1818.serv00.net/ww.php","searchable":1,"quickSearch":1,"changeable":0},
