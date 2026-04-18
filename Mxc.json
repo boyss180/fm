@@ -55,7 +55,7 @@
 {"key":"PanSso","name":"盘他🔍","type":3,"api":"csp_PanSsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YpanSo","name":"盘她🔍","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"xzso","name":"盘它🔍","type":3,"api":"csp_XzsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"MyLocal","name":"本地播放","type":3,"api":"csp_MyLocalAmns","playerType":2,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
+//{"key":"MyLocal","name":"本地播放","type":3,"api":"csp_MyLocalAmns","playerType":2,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"MyDrive","name":"雲盘配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":0,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/BLXQ.json"}},
 {"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
