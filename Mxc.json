@@ -13,8 +13,8 @@
 {"name":"Test","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1}],
 "sites":[ 
 {"key":"豆瓣indexs","name":"豆瓣  🔍 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
-{"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
-{"key":"永乐视频","name":"永 樂✫","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"玩偶","name":"玩偶✫","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
+{"key":"永乐视频","name":"永樂✫","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"Guazi","name":"瓜子✫","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/oguazi.json"},"jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"Dubk","name":"獨播牆","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/dubk.json","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"Wgdj","name":"短劇 1","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama","jar":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
