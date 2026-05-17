@@ -23,9 +23,9 @@
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./ext/小宝-edit.js"},
 //{"key":"88","name":"⚽ 1","type":3,"api":"csp_Sir88Guard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 //{"key":"看球","name":"⚽ 2","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"},"jar":"./cc_20240419_b2.jpg"},
-{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"},"jar":"./cc_20240419_b2.jpg"},
-{"key":"csp_Biliych","name":"演唱會┃720P","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
+{"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"}},
+{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"}},
+{"key":"csp_Biliych","name":"演唱會(失效)","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
 ],
 //解X设置
 "doh":[
