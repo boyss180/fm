@@ -46,9 +46,8 @@
 {"key":"BpanSo","name":"盘他🔍","type":3,"api":"csp_BpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"ZPan","name":"盘聚🔍","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://107.173.211.148/"},"indexs":0,"style":{"type":"list"}},
 {"key":"MyDrive","name":"雲盘配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":0,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
-{"key":"BiliTest","name":"戲曲Test","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"http://mytv6688.xyz/aowu/json/bilixiqu.json"}},
 {"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/BLXQ.json"}},
-{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"}},
+{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/BLYCH.json"}},
 {"key":"csp_Biliych","name":"演唱會┃720P","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/20240419_biliych.json","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
 ],
 //解X设置
