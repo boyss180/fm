@@ -7,7 +7,7 @@
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 {"key":"Guazi","name":"瓜子✫","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":{"sites":"","filters":"./ext/oguazi.json"},"jar":"./omjar.png"},
-{"key":"AiGua","name":"冬瓜✫","type":3,"api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
+{"key":"AiGua","name":"冬瓜(失效)","type":3,"api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"Olyy","name":"歐樂✫","type":3,"api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"Dubk","name":"獨播庫✫","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"./ext/dubk.json","jar":"./omjar.png"},
 {"key":"永乐视频","name":"永樂","type":3,"api":"./ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
