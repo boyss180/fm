@@ -2,14 +2,14 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jpg",
 "lives":[
 //{"name":"👉香港👈(失效)","url":"http://aktv.space/live.m3u"},
-{"name":"👉TEST👈","url":"./ext/CCTV3.txt"},
+{"name":"港澳","url":"./ext/港澳Test.txt"},
 {"name":"👉TEST👈","url":"./ext/CCTV3.txt"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
-{"key":"Guazi","name":"瓜子✫","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":{"sites":"","filters":"./ext/oguazi.json"},"jar":"./omjar.png"},
-{"key":"AiGua","name":"冬瓜(失效)","type":3,"api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
+{"key":"Guazi","name":"瓜子✫","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"./ext/oguazi.json"},"jar":"./omjar.png"},
+{"key":"AiGua","name":"冬瓜✫","type":3,"api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"Olyy","name":"歐樂✫","type":3,"api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
-{"key":"Dubk","name":"獨播庫✫","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"./ext/dubk.json","jar":"./omjar.png"},
+{"key":"Dubk","name":"獨播庫✫","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"./ext/dubk.json","jar":"./omjar.png"},
 {"key":"永乐视频","name":"永樂","type":3,"api":"./ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"奶酪","name":"芝士","type":3,"api": "csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
@@ -21,11 +21,8 @@
 //{"key":"Qile优视频","name":"優視頻(即將失效)","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs.jar"},
 //{"key":"旺旺短剧","name":"短劇2","type":1,"api":"http://zhangqun1818.serv00.net/ww.php","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./ext/小宝-edit.js"},
-//{"key":"88","name":"⚽ 1","type":3,"api":"csp_Sir88Guard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-//{"key":"看球","name":"⚽ 2","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"}},
-{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"}},
-{"key":"csp_Biliych","name":"演唱會(失效)","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
+{"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"}}
 ],
 //解X设置
 "doh":[
