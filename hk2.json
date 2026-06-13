@@ -2,7 +2,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jpg",
 "lives":[
 //{"name":"👉香港👈(失效)","url":"http://aktv.space/live.m3u"},
-{"name":"世界盃","type":0,"url":"http://82.156.243.185:33389/fwc.m3u","playerType":2},
+//{"name":"世界盃","type":0,"url":"http://82.156.243.185:33389/fwc.m3u","playerType":2},
 {"name":"港澳","url":"./ext/港澳Test.txt"},
 {"name":"myTV","url":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/mytvTest.m3u"},
 {"name":"👉TEST👈","url":"./ext/CCTV3.txt"}],
