@@ -7,7 +7,7 @@
 {"name":"港澳Test","url":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/港澳Test.txt"},
 {"name":"mytvTest","url":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/mytvTest.m3u"},
 {"name":"世界盃","type":0,"url":"http://82.156.243.185:33389/fwc.m3u","playerType":2},
-{"key":"KafLive","type":3,"api":"csp_KafLiveAmns","playerType":2,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar-new.png"},
+{"name":"KafLive","type":3,"api":"csp_KafLiveAmns","playerType":2,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar-new.png"},
 {"name":"Gather","url":"https://ghfast.top/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
 {"name":"Test","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1}],
 "sites":[ 
