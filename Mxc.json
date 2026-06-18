@@ -48,7 +48,7 @@
 {"key":"MyDrive","name":"雲盘配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":0,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"看球","name":"⚽1(按點播)","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"超全","name":"⚽2","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
-{"key":"KafLive","name":"⚽3","type":3,"api":"csp_KafLiveAmns","playerType":2,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar-new.png"},
+{"key":"KafLive","name":"⚽3","type":3,"api":"csp_KafLiveAmns","searchable":0,"changeable":0,"playerType":2,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar-new.png"},
 {"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/BLXQ.json"}},
 {"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/BLYCH.json"}},
 {"key":"csp_Biliych","name":"演唱會T2","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/20240419_biliych.json","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
