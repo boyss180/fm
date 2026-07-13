@@ -18,7 +18,7 @@
 //{"key":"看球","name":"⚽1(按點播)","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"超全","name":"⚽2","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
 {"key":"KafLive","name":"⚽3(按點播)","type":3,"api":"csp_KafLiveAmns","searchable":0,"changeable":0,"jar":"./omjar-new.png"},
-{"key":"Wgdj","name":"短劇 1","type":3,"api":"csp_WgdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"./omjar.png"},
+{"key":"Wgdj","name":"短劇1(失效)","type":3,"api":"csp_WgdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"./omjar.png"},
 {"key":"喵喵短剧","name":"短劇 2","type":3,"api":"csp_QmdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"./omjar.png"},
 //{"key":"py_界影视","name":"界影視(即將失效)","type":3,"api":"./ext/界影视MS.py","searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"嗷剧爸爸","name":"劇爸爸(即將失效)","type":3,"api":"./ext/T_jubaba.py","searchable":1,"quickSearch":1,"changeable":0},
