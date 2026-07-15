@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jpg",
-"logo":"./cuteboy.gif",
+"logo":"/cuteboy.gif",
 "lives":[
 {"name":"HK(失效)","url":"http://aktv.space/live.m3u"},
 {"name":"世界盃","type":0,"url":"http://82.156.243.185:33389/fwc.m3u","playerType":2},
