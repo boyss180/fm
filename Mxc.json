@@ -49,6 +49,7 @@
 {"key":"ZPan","name":"盘聚🔍","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://107.173.211.148/"},"indexs":0,"style":{"type":"list"}},
 {"key":"MyDrive","name":"雲盘配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":0,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 //{"key":"看球","name":"⚽1(按點播)","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"多多","name":"⚽回放","type":3,"api":"csp_DoubaoGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
 {"key":"超全","name":"⚽2","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
 {"key":"KafLive","name":"⚽3(按點播)","type":3,"api":"csp_KafLiveAmns","searchable":0,"changeable":0,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar-new.png"},
 {"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/BLXQ.json"}},
