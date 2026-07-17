@@ -1,5 +1,5 @@
 {
-"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419-new.jpg",
+"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"./cc_20240419.jpg",
 "logo":"/cuteboy.gif",
 "lives":[
 {"name":"HK(失效)","url":"http://aktv.space/live.m3u"},
@@ -38,9 +38,9 @@
 //{"key":"嗷呜剧爸爸","name":"T4劇爸爸","type":4,"api":"https://newtv.ggff.net/jubaba","searchable":1,"filterable":0,"changeable":0},
 //{"key":"永乐影视","name":"永乐4(TestXBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./ext/YLYS.json","jar":"./YLYS.txt"},
 {"key":"Guazi","name":"瓜子牆n","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"./ext/oguazi.json"},"jar":"./omjar-n.png"},
-{"key":"AiGua","name":"愛瓜牆n","type":3,"api":"csp_AiGuaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":0,"jar":"./omjar-n.png"},
-{"key":"Dubk","name":"獨播牆n","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"./ext/dubk.json","jar":"./omjar-n.png"},
-{"key":"Olyy","name":"歐樂牆n","type":3,"api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar-n.png"},
+{"key":"AiGua","name":"愛瓜牆","type":3,"api":"csp_AiGuaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
+{"key":"Dubk","name":"獨播牆","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"./ext/dubk.json","jar":"./omjar.png"},
+{"key":"Olyy","name":"歐樂牆","type":3,"api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"YouSP","name":"U視牆","type":3,"api":"csp_YouSPAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"Aiyf","name":"壹帆牆","type":3,"api":"csp_AiyfAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"永乐视频","name":"永樂-T","type":3,"api":"./ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
@@ -85,7 +85,7 @@
 //{"key":"看球","name":"⚽1","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"多多","name":"⚽回放","type":3,"api":"csp_DoubaoGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
 {"key":"超全","name":"⚽2","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
-{"key":"KafLive","name":"⚽3","type":3,"api":"csp_KafLiveAmns","searchable":0,"changeable":0,"jar":"./omjar-n.png"},
+{"key":"KafLive","name":"⚽3","type":3,"api":"csp_KafLiveAmns","searchable":0,"changeable":0,"jar":"./omjar.png"},
 {"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLXQ.json"}},
 {"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./ext/BLYCH.json"}},
 {"key":"csp_Biliych","name":"演唱會(失效)","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./ext/20240419_biliych.json","jar":"./20240419_bili.jar"}
