@@ -18,7 +18,7 @@
 {"key":"Dubk","name":"獨播牆✫","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/dubk.json","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"AiGua","name":"冬瓜✫","type":3,"api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"永乐视频","name":"永樂","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"Wgdj","name":"短劇 1","type":3,"api":"csp_WgdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
+{"key":"Wgdj","name":"短劇N 1","type":3,"api":"csp_WgdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar0715.png"},
 {"key":"喵喵短剧","name":"短劇 2","type":3,"api":"csp_QmdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"Bddj","name":"短劇 3","type":3,"api":"csp_BddjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"DjHggg","name":"嗷嗚劇","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"short_play","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
