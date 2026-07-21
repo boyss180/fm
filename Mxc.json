@@ -23,6 +23,7 @@
 {"key":"Bddj","name":"短劇 3","type":3,"api":"csp_BddjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"DjHggg","name":"嗷嗚劇","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"short_play","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"红果短剧","name":"紅果","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/红果短剧.py","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"黄豆短剧","name":"黄豆","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/黄豆短剧.py","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"贱贱Fan","name":"荐片","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},  
 //{"key":"py_界影视","name":"界影視","type":3,"api":"https://gcore.jsdelivr.net/gh/doube-ba/TVlogo/py/界影视.py","searchable":1,"quickSearch":0,"changeable":0},
