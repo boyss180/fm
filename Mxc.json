@@ -19,7 +19,7 @@
 {"key":"Dubk","name":"獨播牆✫","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/dubk.json","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"AiGua","name":"冬瓜✫","type":3,"api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"永乐视频","name":"永樂","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"Wgdj","name":"短劇N 1","type":3,"api":"csp_WgdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar0715.png"},
+{"key":"Wgdj","name":"短劇N 1","type":3,"api":"csp_WgdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar0822.png"},
 {"key":"喵喵短剧","name":"短劇 2","type":3,"api":"csp_QmdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"Bddj","name":"短劇 3","type":3,"api":"csp_BddjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"DjHggg","name":"嗷嗚劇","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"short_play","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
@@ -55,7 +55,7 @@
 //{"key":"看球","name":"⚽1(按點播)","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"多多","name":"⚽回放","type":3,"api":"csp_DoubaoGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
 {"key":"超全","name":"⚽2","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
-{"key":"KafLive","name":"⚽3(按點播)","type":3,"api":"csp_KafLiveAmns","searchable":0,"changeable":0,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar0715.png"},
+//{"key":"KafLive","name":"⚽3(按點播)","type":3,"api":"csp_KafLiveAmns","searchable":0,"changeable":0,"jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar0715.png"},
 {"key":"Bili","name":"戲曲┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/BLXQ.json"}},
 {"key":"Biliych","name":"演唱會┃480P","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/BLYCH.json"}},
 {"key":"csp_Biliych","name":"演唱會T2","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"changeable":0,"ext":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/20240419_biliych.json","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/20240419_bili.jar"}
