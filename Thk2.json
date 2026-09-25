@@ -44,7 +44,7 @@
 {"key":"Olyy","name":"歐樂牆","type":3,"api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"YouSP","name":"U視牆","type":3,"api":"csp_YouSPAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
 {"key":"Aiyf","name":"壹帆牆","type":3,"api":"csp_AiyfAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./omjar.png"},
-{"key":"Woshinidie","name":"橙汁01","type":3,"api":"csp_Woshinidie","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://boyss180.github.io/fm/orangejar.png","jar":"https://boyss180.github.io/fm/omjar0924.png"},
+{"key":"Woshinidie","name":"橙汁02","type":3,"api":"csp_Woshinidie","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://boyss180.github.io/fm/omjar0924.png","jar":"https://boyss180.github.io/fm/orangejar.png"},
 {"key":"永乐视频","name":"永樂-T","type":3,"api":"./ext/永乐视频n.js","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"独播库","name":"獨播庫-T","type":3,"api":"./ext/独播库n.js","searchable":1,"quickSearch":1,"changeable":0,"jar":"./zhang.jar"},
 //{"key":"永乐视频t4","name":"T4永樂 (測試)","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=永乐视频","searchable":1,"quickSearch":1,"changeable":0},
