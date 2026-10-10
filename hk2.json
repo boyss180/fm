@@ -3,7 +3,7 @@
 "lives":[
 {"name":"👉港澳👈","url":"https://boyss180.github.io/fm/ext/港澳Test.txt"},
 //{"name":"👉myTV👈","url":"https://boyss180.github.io/fm/ext/mytvTest.m3u"},
-{"name":"👉TEST👈","url":"https://boyss180.github.io/fm/ext/CCTV3.txt"}],
+{"name":"👉CN👈","url":"https://boyss180.github.io/fm/ext/cn_all.txt"}],
 "sites":[
 {"key":"豆瓣indexs","name":"豆瓣 🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 //{"key":"Guazi","name":"瓜子✫","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"./ext/oguazi.json"},"jar":"./omjar0715.png"},
