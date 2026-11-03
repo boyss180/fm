@@ -24,8 +24,8 @@
 //{"key":"Qile优视频","name":"優視頻(即將失效)","type":3,"searchable":1,"changeable":0,"api":"csp_Uvod","playerType":2,"filterable":1,"jar":"./fm_cs.jar"},
 //{"key":"旺旺短剧","name":"短劇2","type":1,"api":"http://zhangqun1818.serv00.net/ww.php","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"dr_小宝-edit","name":"小寶 (有廣告)","type":3,"api":"https://boyss180.github.io/fm/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://boyss180.github.io/fm/ext/小宝-edit.js"},
-{"key":"Bili","name":"戲曲(失效)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://boyss180.github.io/fm/ext/BLXQ.json"}},
-{"key":"Biliych","name":"演唱會(失效)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://boyss180.github.io/fm/ext/BLYCH.json"}}
+{"key":"Bili","name":"戲曲","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://boyss180.github.io/fm/ext/BLXQ.json"}},
+{"key":"Biliych","name":"演唱會","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://boyss180.github.io/fm/ext/BLYCH.json"}}
 ],
 //解X设置
 "doh":[
