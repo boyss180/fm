@@ -1,5 +1,5 @@
 {
-"spider":"https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
+"spider":"https://xiuxiu-pro-new.meitudata.com/posters/9c6448af8eb6fb1fc59b32c0f1ade9f9.jpg;md5;33ff9fba113101e9eba7c3d6f40314b7",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "lives":[
 {"name":"JD","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1},
@@ -26,6 +26,7 @@
 //{"key":"红果短剧","name":"紅果","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/红果短剧.py","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"黄豆短剧","name":"黄豆","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/黄豆短剧nn.py","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"贱贱Fan","name":"荐片","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+{"key":"粤迷","name":"粤迷","type":3,"api":"csp_MaiDuiDuiGuard","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},  
 //{"key":"py_界影视","name":"界影視","type":3,"api":"https://gcore.jsdelivr.net/gh/doube-ba/TVlogo/py/界影视.py","searchable":1,"quickSearch":0,"changeable":0},
 //{"key":"嗷呜剧爸爸","name":"劇爸爸","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/boyss180/fm/main/ext/T_jubaba.py","searchable":1,"filterable":0,"changeable":0},
