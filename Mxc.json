@@ -23,7 +23,7 @@
 {"key":"喵喵短剧","name":"短劇 2","type":3,"api":"csp_QmdjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"Bddj","name":"短劇 3","type":3,"api":"csp_BddjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 {"key":"AiDjed","name":"AI短劇ed","type":3,"api":"csp_AiDjGuard","quickSearch":0,"searchable":0,"changeable":0},
-{"key":"AiDj","name":"AI短劇","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧","danMu":false},"indexs":0,"quickSearch":0,"searchable":0,"changeable":0},
+//{"key":"AiDj","name":"AI短劇","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧","danMu":false},"indexs":0,"quickSearch":0,"searchable":0,"changeable":0},
 //{"key":"DjHggg","name":"嗷嗚劇","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"short_play","jar":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/omjar.png"},
 //{"key":"红果短剧","name":"紅果","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/红果短剧.py","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"黄豆短剧","name":"黄豆","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/boyss180/fm/main/ext/黄豆短剧nn.py","searchable":0,"quickSearch":0,"changeable":0},
