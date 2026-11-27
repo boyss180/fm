@@ -1,5 +1,5 @@
 {
-"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://boyss180.github.io/fm/cc_20240419.jpg",
+"wallpaper":"https://深色壁纸.xxooo.cf/","spider":"https://boyss180.github.io/fm/cc_20240419-new.jpg",
 "logo":"/cuteboy.gif",
 "lives":[
 {"name":"HK(失效)","url":"http://aktv.space/live.m3u"},
@@ -23,6 +23,7 @@
 //{"key":"苹果","name":"蘋 果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"文采","name":"文 才","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"py_界影视","name":"界影視(測試)","type":3,"api":"./ext/界影视MS.py","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"AiDjed","name":"AI短劇ed","type":3,"api":"csp_AiDjGuard","quickSearch":0,"searchable":0,"changeable":0},
 {"key":"Bddj","name":"短劇 3","type":3,"api":"csp_BddjAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama","jar":"./omjar.png"},
 //{"key":"DjHggg","name":"嗷嗚短劇","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"short_play","jar":"./omjar-new.png"},
 {"key":"聚合短剧","name":"兩短劇Test","type":3,"api":"./ext/聚合短剧.js","searchable":0,"quickSearch":0,"changeable":0},
